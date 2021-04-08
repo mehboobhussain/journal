@@ -1,0 +1,1217 @@
+Sample resume - EA 1
+
+## Sample resume of an enterprise architect
+
+![enterprise-architect-resume-sample.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e3676e8d-1cf6-4573-9f97-ef35b0c62b0d/enterprise-architect-resume-sample.jpg)
+
+- Collects and analyzes business requirements, drivers and priorities
+- Leverages knowledge to forecast and anticipate demand
+- Establishes vision, strategy, and journey maps that align with business priorities for Franklin Templeton Investments global infrastructure services
+- Researches new technology advancements and conduct evaluations focused on optimizing and improving infrastructure configuration, performance, capacity, availability, and operational reliability
+- Defines strategy for and maintains technology standards
+- Works closely with other global individuals and groups in the execution of technology proof of concepts, deployment, and adoption
+- Partners with other Architects, Engineering, Operations and other stakeholders to design, communicate and implement Strategies, Technology Roadmaps, Standards, Processes, Services, Infrastructure and Application solutions
+- Performs ROI and other cost-benefit analysis of strategies and solutions
+- Leads transformational infrastructure project implementations driving service transition from architecture into operational delivery
+- Performs Financial forecasting
+- Partners with Global Information Security to ensure security, audit and compliance requirements are met
+- Stay abreast of new and emerging technologies and processes. Evolve and apply to continuously improve IT services
+- Make and influence technical and business decisions
+- Works closely with Vendor Relationship Managers to foster healthy supplier relationships, negotiate and manage contracts, ensure product performance, usage monitoring and forecast, service levels and expectations are met
+- Partner with Operational Leaders to understand challenges and align on service direction
+- Lead the triage of escalated, complex problems as needed to ensure restoration or quality of service
+- Participate in the recruitment, development and mentorship of a team of talented, highly motivated staff
+- Develop opportunities for cross-team effectiveness and remove organizational barriers for strong teamwork, collaboration, and excellent service delivery
+- Demonstrated experience successfully implementing strategic solution architecture
+- Passionate, collaborative, results-oriented leader with a proven track record of inspiring and building strong performing teams
+- Demonstrated technical management knowledge in the areas Windows, Unix, Mainframe, Enterprise Storage, Voice and Data Networks, High-Availability and Virtualization
+- Experience in implementing quality guidelines, standards and procedures
+- Strong influencing / negotiation skills
+- Strong interpersonal / relationship management skills
+- Demonstrated financial and contract management skills
+- Specific experience with IBM Mainframe, iSeries, AIX, Linux, Solaris, EMC, NetApp, VMWare and Cisco technologies
+- Expertise in the areas of Information Security and Risk Management, Business Continuity, Disaster Recovery/Avoidance, Unified Communications, Active Directory, or Systems Development Lifecycle
+- Architectural Assurance – Verify compliance of all architectures and solutions with IT Principles, enterprise & domain conceptual & logical architectures, application & technology standards
+- Adjudication – Manage exception requests to solutions which are not compliant with IT principles, strategies, architecture, patterns & standards. Be a key member ofgovernance boards and councils to manage architecture controls
+- Possesses a university degree/college diploma in related discipline(s) and/or 15+ years experience in the IT industry
+- Possesses advanced knowledge of the business, as well as the financial services industry, especially wealth management
+- Possesses expert knowledge of technologies for various banking domains
+- Exhibits expert knowledge of business services- and BPM-based web application architecture
+- Posses hands-on experience enterprise-wide business service-based application delivery and operations, preferably in several organizations
+- Have above average understanding of internet, intranet applications and website architecture and content management
+- Exhibits expert knowledge of the Systems Development Life Cycle
+- Possesses advanced knowledge in technology governance
+- Demonstrates expert knowledge of architecture frameworks, methodologies, and tools (e.g. possesses The Open Group Architecture Framework [TOGAF] accreditation)
+- Possesses expert knowledge of Architecture Maturity Evaluation concepts and metrics (e.g., ACMM)
+- Demonstrated track record of significant accomplishment in a senior leadership role in the financial services industry. Prefer Fortune 500 company experience
+- Demonstrated deep knowledge of current industry trends along with technology capabilities related to architecture & technology across applications, utilities and infrastructure
+- Demonstrated experience in successfully managing complex organizational initiatives involving multiple functions and multiple business units/regions. Experience should include ability to identify and articulate problems, influence decision-making process as well as the delivery of expected results
+- Possesses excellent communication skills, both written and oral
+- Demonstrates solid consulting and client management skills
+- Is passionate for solution delivery
+- Exhibits solid relationship management and managerial leadership abilities
+- Thorough understanding of software engineering on one or many platforms, system integration, technical infrastructure, networking, security, and enterprise-class applications including systems such as (but not limited to): enterprise resource planning (ERP)
+- Warehouse management and distribution systems (WM)
+- Product lifecycle management (PLM)
+- Digital asset management (DAM)
+- Direct-to-consumer systems (both eCommerce and Retail)
+- Enterprise service bus (ESB)
+- Experience developing and communicating architectural artifacts such as strategy, technical models, policy, standards, guidelines, roadmaps, and maturity models
+- Experience with environment management, change management, release management, including continuous integration, continuous delivery, and DevOps models
+- Knowledgeable of the apparel, footwear, and/or retail industries
+- Proficient in using data to tell a story and make a persuasive business case
+- Ability to think strategically and communicate that strategy to a large organization
+- B.S. / B.A. in Computer Science or related field or 15+ years related experience; MBA a plus
+- 15 years progressive leadership roles
+- 10 years software engineering/development (multiple languages/platforms and agile methodologies highly desirable)
+- 8 years architecture (domain or enterprise)
+- 5 years project management (certification a plus)
+- Familiarity with TOGAF or other Enterprise Architecture frameworks required; related certification highly desirable
+- Familiarity with “cloud” and mobile architectures
+- Experience in global or multi-branded environments (especially apparel and/or footwear) highly desirable
+- Familiarity with service bus and service oriented architectures
+- Strong understanding of IT infrastructure fundamentals
+- Strong understanding of enterprise and solution design patterns and best practices
+- Ability to clearly explain and justify ideas when faced with competing alternatives
+- Ability to concisely illustrate concepts in words and diagrams
+- Ability to learn quickly and apply new knowledge in a fast-paced, ever-changing technical environment
+- As part of a cross-functional software team, you'll be commissioned with delivering new and innovative platforms, products, and/or product functions for schools, districts, and states across the country
+- Work with technology leadership and product management to define the systems architecture for products that align to strategic business goals as well as technology principles and practices
+- Work with application architects in agile feature teams to build consensus around overall system architecture and provide implementation guidance as needed
+- Assist in interviewing, hiring, and retaining the best software development talent
+- 10 years of professional software development experience
+- 4 years of leading the technical architecture and design of systems
+- Proven experience and understanding of the JVM ecosystem
+- Proven understanding of Java, Spring, and ORM
+- Proven experience with data modeling
+- Taste for simplicity and elegance in technical architecture and implementation, as well as a pragmatic approach to software architecture
+- Proven experience architecting systems optimized for cloud deployment
+- Proven experience with large scale system architecture
+- Wide breadth of knowledge of technology stacks and frameworks, and an understanding of their strengths and weaknesses
+- Excellent verbal and written communication skills, ability to communicate effectively with both technical and non-technical audiences
+- Proven experience in identifying the right tools for the right job
+- Proven experience of understanding business drivers and strategy
+- Experience in EdTech (Educational Technology) industry a big plus but not necessary
+- Proven experience building a scalable micro-services based architecture
+- Proven experience with Java/J2EE and Groovy on Grails
+- Proven experience with AngularJS
+- Proven experience with NoSQL databases
+- Proven experience with full stack development
+- Proven experience in optimizing for a mobile web experience
+- Proven experience with Big Data tools and techniques
+- · 8 years of progressive work experience
+- · Demonstrated mastery of technical and business knowledge
+- · Proven history of driving technology solutions to meet business goals
+- · 3 years of management/supervisor experience
+- · Demonstrated strong knowledge of architectural principles and the design, implementation and operations of enterprise technology solutions
+- · Strong knowledge and understanding of the full life cycle technical project management and business analysis
+- · Extensive knowledge and experience in business processes, technology products and solutions related to Finance Management Information, Finance Operations and/or Human Resources areas
+- · Hands-on experience in system design and implementation of Finance Management Information, Finance Operations and/or Human Resources systems
+- · General business and systems experience in Finance Management Information, Finance Operations and/or Human Resources areas solutions
+- · Oversight of a similar architectural/technology domain at a "Top 50" US Bank OR Software Product Management experience with a software development company OR 5+ Years consulting experience with a "Big 5" firm in mortgage domain
+- · Strong knowledge and understanding of architectural principles and the design, implementation, and operations of enterprise technology solutions
+- · Strong knowledge of business unit level mission and processes
+- · Demonstrated understanding of a technology portfolio's systems, technical capabilities, limitations and business processes
+- · Strong knowledge and understanding of the full software and technology engineering program lifecycle, technical project management, engineering and business analysis
+- · Demonstrated strong cross organization communication skills with both business and technical vocabulary used to articulate both perspectives effectively
+- · Mastery of the technologies and solution options within one or more defined technology portfolios
+- · Masters Degree in a related discipline
+- · Excellent consultative skills
+- · Mastery of technologies and solution options within more than one of the defined portfolios
+- · Experience in the financial services industry and preferably at STI
+- Ability to develop, present, and overseeing the execution of key cross-cutting enterprise technology and architectural strategies
+- Ability to act as a champion and change agent, and working closely with all architecture disciplines (e.g. Solutions Architecture, Lead Architecture, Infrastructure Architecture, Information Architecture, and Application Architecture)
+- Ability to assist in fulfilling EA governance duties, e.g. attending Architecture Review Board meetings, participating in Design Authorities of key enterprise initiatives, etc
+- Ability to provide coaching and mentoring to architects or prospects
+- Ability to provide critical thinking, technical leadership aligned with major technology and industry trends
+- Ability to effectively communicate and build rapport with team members, stakeholders at all levels and interface groups using a variety of techniques and collaboration from initiation to closure
+- Ability to resolve conflicts/issues and escalates as appropriate
+- Ability to facilitate knowledge sharing and collaboration
+- Ability to promote “reuse” as a mindset and culture
+- Strong leadership, architectural, technology and management consulting skills
+- A Bachelor’s degree in a technical area of study (e.g. computer science, mathematics, or engineering)
+- 15 years experience in IT, out of which, 5 years experience practicing enterprise architecture
+- Knowledge in enterprise architecture frameworks (TOGAF, Zachman, etc)
+- Deep expertise in either application architecture or infrastructure architecture
+- Strong communication skills (oral and written), facilitation skills, and presentation skills
+- Strong stakeholder management skills and experience
+- Experience with technology and management consulting firms as well as experience in the banking or financial services industry an asset
+- Define a differentiating Group-wide Enterprise Architecture
+- Improve the quality of technology solutions
+- Simplify the application and infrastructure suite
+- Build a strong and vibrant technical community
+- You will play a role driving the strategic thinking around common architecture initiatives, as well as supporting the governance to ensure delivery to strategy for those initiatives
+- You will be working directly with the IT stream architects to advance their application strategies by identifying and managing application dependencies, aligning architecture to cross business demands, and identifying opportunities to leverage technology and applications across streams
+- You will help ensure that we are investing in a strategic rather than tactical way; challenging architectural decisions where necessary, and ensuring that solutions have integrity front-to-back through the business application landscape
+- Articulate with strong communication and engagement skills
+- Able to ensure that your views and designs are properly executed
+- Comfortable communicating to senior audiences
+- 1 year of customer service experience and supervisory experience preferred
+- Ability to foster a team environment and create a positive working environment
+- Experience in training and directing others
+- Ability to take initiative in making decisions
+- Demonstrated ability to achieve goals
+- Computer proficiency
+- Ability to work a flexible schedule
+- 2+ years of experience with developing system architectures and analyzing and decomposing architectures
+- 2+ years of experience with producing DoDAF architecture products, including AV-, operational views, system views, and TV-1 using architecture modeling tools
+- 2+ years of experience with architecture modeling tool
+- 2+ years of experience with strategic consulting supporting system analysis and integration efforts
+- Experience with focusing on completing client work in accordance with established plans and quality standards
+- Ability to multi-task in a very dynamic and complex environment
+- Experience with systems engineering with DoD programs
+- Experience with requirements development, functional analysis, design synthesis, and integration
+- Experience with acquisition, including DoD 5000, CJCSI 6212.01F requirements, Information Support Plans (ISP), Joint capabilities integration and development system (JCIDS), and process modeling methodologies
+- Knowledge of DoD or Army operating environment
+- Possession of excellent interpersonal, presentation, and coordination skills
+- 5 years of experience with enterprise architecture
+- Knowledge of federal enterprise architecture framework
+- Knowledge of business process improvement
+- Knowledge of capability-based architecture analysis, capital planning and investment control, and customer and stakeholder analysis and management
+- Knowledge of IT governance and management, IT portfolio management and optimization, IT policy development and coordination, and IT project management
+- Knowledge of Transition Planning and Roadmap Development
+- Knowledge of IT strategic plan formulation and IT governance
+- Experience with federal segment architecture methodology
+- Experience with Lean Six-Sigma
+- Bachelors Degree in a relevant field
+- Experience managing the delivery of both Waterfall and Agile methodologies
+- Experience providing architectural standards, and process support for definition and implementation of a consistent technical infrastructure
+- Authorization to work for any U.S employer
+- Provide technical expertise on the future-state architecture to clients and team members
+- Guide technical teams in designing and developing solutions that align with the architectures
+- Perform assessments of EA compliance to existing frameworks and provide actionable advice to close gaps
+- Work with governance teams to identify and select applicable standards, practices, and implementation patterns
+- Conduct research, develop position-papers, reports and presentations for briefings to application teams
+- Work within interdisciplinary teams to ensure that organizational information exchange requirements are identified and met
+- 5+ years of technical experience with systems development
+- 5+ years hands on knowledge with EA repositories (IBM System Architect, Troux, etc.)
+- 5+ years of work with EA projects and programs
+- Exposure to multiple, diverse technical environments
+- Understanding of the National Information Exchange Model (NIEM)
+- Familiarity with SOA architecture and web technologies (e.g., Internet and Web service standards/protocols, enterprise service bus)
+- Knowledge of BI products and tools
+- Proficiency with Microsoft Office (i.e., Word, Excel, PowerPoint)
+- Develop EA artifacts in support of planning, budgeting, and systems engineering
+- Establish, as required, a repository in which to manage architecture artifacts, research findings, reports, and other associated deliverables
+- Support Business Enterprise Architecture reporting requirements by collecting, formatting, and processing management information
+- Support EA artifacts development
+- Conduct detailed research and analysis
+- 5+ years of experience to include 2+ years of overall IT experience
+- 2+ years of demonstrated DoDAF experience
+- 2+ years hands on knowledge with EA repositories, including IBM System Architect
+- 2+ years of work with EA projects and programs
+- Understanding of life cycle contract administration with a focus on technology
+- Familiarity with Business Process Management (BPM) and its implementation
+- Familiarity with Business Process Model Notation (BPMN)
+- Familiarity with Entity Relation Diagram (ERD)
+- Proficiency in MS Office Applications (Word, PowerPoint, Outlook, Excel)
+- Leads the development of highly innovative, large, software solutions and strategies that meet specifications and significantly impact future developments including potential new products and services
+- Delivers proposed solutions and leads discussions with clients and vendors related to technical solutions, as well as provide consulting services for a variety of technology products and services
+- Identifies major problems and opportunities and champions the development of innovative solutions; uses expert knowledge to develop creative solutions to critical issues and complex design problems. Troubleshoots extremely complex technical problems
+- Performs strategic research and design in several major technical areas
+- Bachelor’s degree or equivalent work experience; Master’s preferred; PhD a plus
+- 12-15+ years of experience in delivering large scale, complex web-based solutions for demanding clients
+- Has expert knowledge in software architecture and design, product development, and engineering operations
+- Expert ability to convert technology trends and issues into meaningful, understandable business issues that are actionable
+- Ensure standards and framework compliance/guard rails across the e-Commerce business
+- Work across organization with applied architects to develop design standards
+- Use tools to produce models to describe the artifacts, principles, frameworks and strategy
+- Provide cross project architectural guidance that includes identifying relevant strategy, policy and roadmaps
+- Provide expert consultancy in the development of programs of work and capital budget allocation
+- Lead project architecture decision making for the most visible and important active investments within Mortgage Banking
+- Define formal reference architecture and guiding principles that direct project solutions
+- Create early-phase concept assessments and oversee project estimations that help leaders organize business cases for investment decisions
+- Systematically identify key capability investments across projects and formally propose restructuring of projects, investments, or designs to accommodate broader enterprise objectives within the company’s current active project portfolio
+- Lead the delivery of end-to-end project architecture decisions and deliverables as a part of the company’s project delivery framework
+- Drive the Mortgage Banking solutions adoption and alignment with shared CCB IT assets
+- Define formal architecture exceptions where deviations exist from reference architecture and guiding principles; and communicate exceptions to the CCB Chief Architect and the CCB Chief Information Officer
+- Lead the creation and maintenance of reference documentation of Mortgage Banking’s technology assets, including current state architecture and total cost of ownership models
+- Establish and maintain architecture project management controls and deliverable tracking via the architecture PMO
+- Partner closely and build strong relationships with business leaders and represent the face of technology
+- Bring thought leadership & work collaboratively across the firm-wide CIO organization on innovation, improvement & efficiency programs
+- BS or BA in Computer Science, Mathematics, or Engineering
+- A minimum of 5 years of IT development experience, including programming experience in an advanced language
+- A minimum of 3 years of leading system design, including large enterprise solutions that integrate multiple systems
+- Prior experience in reference architecture definition
+- Performance testing, Data Design, Security, or Infrastructure design is a plus
+- Must have demonstrated ability to motivate people & find common ground to achieve architecture objectives
+- Requires technical understanding of TOGAF, Zachman or other architecture frameworks
+- · International branches and relevant legal and regulatory requirements
+- · Corporate Banking products all or any of (e.g. lending/trade/custody/cash management)
+- · Support functions (e.g. Sanctions (OFAC etc), Credit Control, Credit Risk, AML, Investigations, Regulatory Reporting, Billing, Customer Care)
+- · Investment Banking knowledge an advantage
+- · Practical experience of Model Bank technique
+- · Multiple EMEA country specific clearings (high value/ low value & Cheques)
+- IT experience in finance
+- Work experience as a Technology Architect
+- Work experience designing and deploying large, robust, operationally sound production systems
+- Defining and managing the overall solution for a technology change or business transformation programme covering both functional and non-functional requirements across multiple teams and workstreams
+- Validation of business vision, drivers and objectives and their transformation into project deliverables
+- Establishing multiple future states for the target operating model, each with quantifiable business benefits and meeting the requirements for processes, products, services, organizations, geographies, controls and technology
+- Status reporting to senior stakeholders
+- Establishment of correct design governance framework such as design authorities
+- Establishing which deliverables are appropriate, and to what detail, over the Business, Information, Application and Technology architectures
+- Providing input into the planning and project management processes including high level estimates based on prior experience
+- Identifying and tracking dependencies and risks between components and processes across different workstreams and phases
+- Definition or input into data policies such as retention, security, resilience and migration
+- Experience of working within investment banks in, ideally , more than one asset class
+- Experience of more than one area of Front, Middle or Back Offices
+- Experience in translating high-level business requirements into logical architectures
+- Experience of designing and implementing technology solutions across multiple applications and environments
+- Has highly developed and effective written and oral communications skills, especially influencing and challenging skills
+- Takes ownership and demonstrates initiative through problem identification, and resolution
+- An ability to work at both the summary and the detailed level
+- Strong stakeholder management to CTO, CIO, COO level
+- Experience of complex, multi-platform, distributed applications
+- Ownership of a substantial piece of technology real estate through its entire lifecycle or an aggregation of such experience to that end or
+- The ability to create or adapt architecture principles, that include rationales and implications
+- Leadership of several large change programmes impacting a substantial piece of technology real estate through its entire lifecycle
+- Experience of different development methodologies such as waterfall, agile, SCRUM
+- Understanding of procurement cycles
+- Exposure to Architectural frameworks such as TOGAF, Zachman or in house
+- Focus on pan HP Solutions including: Data Center Transformation, Software Defined Infrastructure or Cloud opportunities
+- Architect an appropriate technical solution to meet the customer’s requirements and outcomes by balancing and incorporating the inputs of Technology Architects in the solution design
+- Lead “New Style of IT” consultative selling and solution selling to set buying criteria and engages other HP organizations where required
+- Identify new business opportunities
+- Significant experience in technical consultative engagement (at least 5+ years)
+- Must have - strong enterprise server, storage and networking infrastructure knowledge
+- Establishes trusted advisor relationships at senior levels
+- Understands client's internal management alliances and shapes client thinking on technology direction
+- Provides technical direction to HP delivery on key initiatives
+- Promotes innovation and thought leadership within the business segment
+- Identifies opportunities spanning technical disciplines across product lines and/or services
+- Contributes to the technical dimension of segment growth plan
+- Conceives and creates new technology programs to support on-going business and future business growth
+- Validates HP portfolio solutions against client needs, and shapes as necessary for client acceptance
+- Creates the annual technology roadmap for the business segment
+- Leads client-level visioning sessions
+- Assists in the development of the technical community. Shares knowledge and technical expertise
+- Acts as point of contact into the Practice organisations
+- Directs solutioning for major programmes of work in conjunction with the practice organisation
+- Degree or equivalent level of educational attainment
+- Typically 10+ years’ experience working in Information Technology with a strong pedigree in the creation and delivery of solutions
+- Experience of competitive sales pursuits (demonstrable success will be an advantage)
+- Holds SC (Security Check) or DV (Developed Vetting) status with Defence Business Services National Security Vetting (NSV)– please note that in the absence of the either, the successful applicant will have to undergo NSV for SC
+- Defence Industry knowledge will be an advantage
+- Should be Master Level ISA, or able to work at a Master Level
+- Open CA Certification is preferable
+- Understands the customer's business problem, need, or opportunity and to design an IS solution that completely and correctly addresses the business problem, need, or opportunity without unnecessary enhancements
+- Leads the architectural design, development, deployment, and technical quality of large enterprise or global solutions that span multiple technologies and disciplines
+- Provides architectural direction for multiple medium to large sized projects concurrently in various stages of their lifecycle or a large project full time
+- Maintains the integrity of the proposed architecture to assure professional quality and logical consistency in the face of political and business pressures
+- Applies multiple architectural, development and operational methodologies (e.g., Zachman, TOGAF, Information Technology (IT) Service Management (ITSM), …)
+- Validates/Evaluates if an information systems or operational architecture meets business needs
+- Evaluates the effect of external factors on designed solution
+- Has a passion for learning
+- Deals with complexity and ambiguity
+- Handles politics, works with integrity
+- Has a broad knowledge of the IT industry, with depth in multiple areas
+- Has an understanding of and an insight into future technology trends and how they may impact different business domains
+- Has a broad knowledge of IT and business standards and best practices and how to apply the appropriately in solutions
+- Is able to apply program/project management methods and processes to define, plan, cost, resource, track and ensure the accomplishment of targeted goals for large enterprise or global level projects
+- Is able to write Statements of Work for large enterprise or global level solutions that span multiple technologies or operational areas
+- Define IT target architectures for various domains relative to Bell Business Markets, mainly in the BSS space
+- Establish and document IT roadmaps and communicate them effectively to all stakeholders in order to gain alignment and momentum
+- Participate in the due diligence process by providing guidelines and project signoff
+- Establish and manage key stakeholder relationships at all levels of the company
+- Responsible for understanding the organization needs of systems integration
+- Work closely with larger EA community (BRS, Mobility, etc) to ensure high-level alignment of target architectures and roadmaps
+- Work closely with BSA community to ensure proper alignment of conceptual solutions to target architecture
+- Continuously grow breadth and depth of knowledge of BBM IT systems and industry best practices
+- In some cases, be responsible for the solution implementation
+- Provide necessary training and knowledge transfer
+- Creating business case development and benefits management programs that define, track and report accrued value through the optimal application of IT to business challenges
+- Must have a 4-year degree (Computer Science, Social Science or Business), and/or equivalent experience
+- Graduate business oriented degree is a plus
+- At least 8 - 10 years related business and IT consulting experience
+- Preferred -- at least 5 years working within the Public Sector (Educational, State and Local Government and/or Federal Government)
+- Must have a proven record of delivering business value from Information Technology at an executive level
+- Working practical knowledge and experience developing service-oriented Enterprise Architectures based on industry standard & recognized models (DoDAF, TOGAF, etc.)
+- Solid understanding of interoperability issues and the strengths and weaknesses of platforms and products, and able to provide a trusted voice at the decision-making table
+- Candidates must have a deep understanding of markets, industries, business, customers, and technology. Work experience should involve a mix of business and technology consulting across the lifecycle of Information Technology (examples may include assessment and analysis, design, business case development, architecture, envisioning, planning, deployment, benefits analysis, and management)
+- Experience working with Public Sector acquisitions, proposals and government programs and initiatives is preferred
+- The ability and background experience to provide leadership and a demonstrated effectiveness in consulting and client management
+- Forming and leading virtual teams and collaborating across large, matrixed organizations
+- Travel is an integral expectation of this position as the needs of our customers and our business demand. This position location is flexible
+- Current security clearance or ability to pass security clearance background checks
+- Marketing and business development activities working with Division Vice Presidents to prepare and brief solutions to potential customers
+- Technical proposal writing and solution leadership working with sales and proposal teams
+- Development and/or improvement of technical solutions to address customer needs working with Project Managers
+- Implementation of partnering strategies with other firms to support technical requirements
+- And actively leading TMS-wide initiatives when assigned and coordinating with other technology leaders in ICF
+- Bachelor’s degree required in Information Technology or Business Related Discipline
+- 10 years of progressive technical and leadership management experience in a wide range of IT disciplines
+- 8 years of Multi-program strategy development and implementation experience
+- 8 years of IT programs/project management, technology requirements analysis and solution development experience
+- Advanced Degree
+- 8 years’ experience providing technical leadership to developing winning IT related proposals
+- 8 years’ experience with health informatics projects and sales activity within Federal agencies
+- SOA Skills
+- Agile development Skills
+- Relevant certifications: FEAC, CEA, CSM, PMP
+- Ability to work efficiently with team members in a fast-paced environment
+- Lead in the definition, establishment, implementation, and continuous update to BB&T’s Enterprise Architecture standards, methods, procedures and best practices
+- Analyze the current BB&T Information Technology landscape to identify weaknesses and work with BB&T IT Services owners to develop opportunities for improvements
+- Evaluate and recommend Information Technology solutions and drive the operationalization of new technologies and development methods
+- Develop both conceptual and detailed architecture plans, and work with internal BB&T staff to drive the plans to fruition
+- Research industry trends & best practices and develop recommendations of technologies and methods to stakeholders at all levels
+- Create, maintain, and communicate domain specific architecture models and patterns
+- Provide architectural consultation, support, mentoring, and guidance to fellow Enterprise architects and Solution Architects in their related subject area
+- Ensure that BB&T’s development projects achieve a high standard of architecture assurance and reuse by following enterprise standards and industry best practices
+- Defines, improves and advocates corporate standards, procedures, metrics and policies
+- Work collaboratively with other architectural domain and enterprise architects to recommend and design effective and consistent data and integration solutions
+- 3+ years of experience with systems analysis and design, systems engineering, requirements analysis, or BPMN
+- 2+ years of experience with enterprise architecture using standard frameworks, including DoDAF, FEAF, or ToGAF
+- 2+ years of experience with Telelogic System Architect or similar architecture modeling tool
+- 2+ years of experience with strategic consulting leading the facilitation of information studies and analysis
+- Experience with SPAWAR preferred
+- Experience with acquisition, including DoD 5000, CJCSI 6212.01F requirements, information support plans (ISP), Joint capabilities integration and development system (JCIDS), process modeling methodologies, and industry best practices, such as CMMI and ITIL
+- FEAC Institute or other EA or DoDAF Certification
+- Provide hands-on senior-level leadership across all architecture domains including Technical, Security, Data and Application
+- Reviewing performance parameters and making recommendations for improvement
+- Excellent oral and written communication, as well as presentation skills
+- 10 years of IT experience developing plans, gathering/analysis of requirements, and system design and development
+- 10 years developing solution architectures and strategies across multiple architecture domains (infrastructure), application, data, integration and security) involving multiple of the following technologies: web technologies, service oriented architecture, integration/middleware
+- 5 years in a Leadership position responsible for leading groups of five or more direct reports and collaborating directly with business partners to ensure architectural solutions deliver on business objectives
+- Agile development skills
+- Self-starter with strong interpersonal and leadership skills
+- Politically astute, and able to effectively influence and work successfully with a variety of Stakeholders and team members at every level in a fast-paced environment
+- Strong analytical and problem-solving skills, be able to think creatively, and work with abstract concepts
+- The ability to handle multiple tasks simultaneously and shift priorities as directed
+- Collaborate with IT leaders, other Enterprise Domain Architects and leaders in the business to document IT capability requirements (strategic) as part of annual/on-going planning and governance
+- Deliver Enterprise IT strategic roadmaps for Supply Chain, Merchandise Planning, Allocation and Replenishment (3+ year forward looking view) that are focused on technology capabilities for Business, Information (data) and Technology solutions
+- Ensure that roadmaps reflect invest/divest, retirement, and consolidation strategies for systems globally and that industry best practices and benchmarks are incorporated into deliverables
+- Lead and deliver enterprise evaluations and analyses that adhere to established global IT project and requirements management methodologies, governance/check-point, release management, and tools standards for approved projects requiring IT solutions
+- Partner with IT functions and their solution architects to design integrated IT solutions (including the build vs. buy decision) that translate business capability requirements and adhere to established global IT technology standards (infrastructure, application, integration, data)
+- Provide Architecture consulting to solution architects within delivery/execution teams (design, build/test, conversion/cutover) for business and technical projects across the globe
+- Support IT and business leaders with technology advisory services for engaging with the business to “solve” business problems via technology and process innovation relative to IT capability requirements
+- Contribute and represent Supply Chain and Planning at the IT Architectural Board
+- Work directly with external vendors and advisory agencies to bring relevant best practices to the Enterprise Architecture team
+- Ideal candidate should have deep understanding and experience in Supply Chain, Distribution, Merchandise Planning, Allocation and Replenishment
+- Minimum 5+ years of IT experience in an architecture role responsible for both business
+- Systems support and the successful delivery and deployment of IT technology-based solutions
+- Well-versed in Enterprise Architecture, including network, data, application, system, and integration architecture
+- TOGAF Certification or other architecture professional certification a plus
+- Consumer products, and/or apparel retailing experience preferred
+- SAP AFS or equivalent ERP experience preferred
+- SAP APO, SAS, Oracle RPAS or equivalent planning systems experience preferred
+- Understanding of technology directions, trends and strategic business impacts related to the apparel industry
+- Familiarity with the balanced scorecard concept, IT standards such as ITIL and COBIT and compliance topics such as Sarbanes-Oxley (SOX) and Payment Cards Industry
+- (PCI) standards are preferred
+- Clear understanding of the software development lifecycle (SDLC) and project and business process management methodologies and tools
+- Excellent written and verbal communication skills and presentation skills
+- Collaborate with IT leaders, other Enterprise Domain Architects and leaders in the business to document IT capability requirements (strategic) as part of annual/on-goingplanning and governance
+- Deliver Enterprise IT strategic roadmaps for Retail, eCommerce and Direct To Consumer channels (3+ year forward looking view) that are focused on technology capabilities for Business, Information (data) and Technology solutions
+- Contribute and represent Retail and Omni-Chanel at the IT Architectural Board
+- Ideal candidate should have deep understanding and experience in cross-channel architecture in eCommerce, Retail Merchandising, Planning and Allocation, Order Management and Point of Sale within an Omni-Channel brand or retailer
+- Minimum 5+ years of IT experience in an architecture role responsible for both business systems support and the successful delivery and deployment of IT technology-based solutions
+- Familiarity with the balanced scorecard concept, IT standards such as ITIL and COBIT and compliance topics such as Sarbanes-Oxley (SOX) and Payment Cards Industry (PCI) standards are preferred
+- Understand and be able to clearly articulate the overall end to end architectural solution that the IBM T&T program team is accountable to deliver
+- Responsible for integrating the overall technical solution, across towers
+- Ensure proposed tools inter-operate to deliver the desired functionality at the planned cost
+- Provide high level Enterprise Architecture design for the scope of the transition
+- Develop Transition Architecture documents
+- At least 10 years experience in technical architect
+- Responsible for an enterprise architecture strategy that covers the applications and integration architecture. This strategy should to ensure single version of the truth for critical master data, reliable and always available system interfaces. This architecture strategy should clearly define global standards, and where geographical differences will be allowed and why
+- Develop and maintain cross system architecture models, views, and documentation (in particular reference architectural diagrams)
+- Ensure alignment of enterprise architecture and business strategy
+- Interface with project delivery teams to participate in creating project solutions and technical plans
+- Create and maintain architecture vision, responsible for defining IT technical strategies and roadmaps
+- Maintain a roadmap that connects the business systems strategy with IT technologies and future solutions
+- Investigate and propose technology strategies that can better support the company's business strategies
+- High proficiency in Microsoft Visio
+- Collaboration with project leaders, business systems analysts and engineering team members
+- Extensive knowledge of SaaS, IaaS, PaaS, and Java
+- Strong understanding of hybrid cloud datacenter models (Amazon Web Services and Microsoft Azure)
+- Microsoft server environment
+- Well-developed influencing skills
+- SAP (ECC and suite applications such as CRM, CAR, BPC, BOBJ)
+- General IT technical knowledge (server, storage, network, applications, SOA, etc.)
+- Learning orientation, with ability to teach and motivate others
+- MuleSoft experience highly desired
+- Bachelor's degree in Computer Science (or related) or equivalent work experience required
+- 3+ years of enterprise architecture, solutions architecture, and system design experience
+- Experience in leading major enterprise architecture delivery in the retail vertical
+- Experience in financial modeling of the business benefits from technical project initiatives
+- Proven ability to drive work without any formal authority in an ambiguous environment,
+- Experience turning research ideas into actionable designs. Able to persuade stakeholders and to champion effective techniques through delivery
+- Knowledge of the real world experiences associated with emerging application technologies/approaches and their application
+- Excellent ‘all around’ communication skills, performance management, good delivery practice and techniques, as well as fluent written and spoken English
+- The ideal candidate will understand the importance of understanding and respecting corporate and brand cultures and values, and will need to adapt quickly and skillfully to a fast-paced entrepreneurial environment. Implementation techniques and strategies that have been successful elsewhere may need to be adapted to be effective here due to a lean organizational structure, and the need to move simultaneously on several fronts. Candidate will need to demonstrate that they have been successful in adapting to different organization cultures and ways of working in the past
+- Participate in the design and implementation of Enterprise Infrastructure solutions
+- Develop reference architecture (patterns, standards, implementation guides)
+- Support the development and execution of Enterprise Service strategy
+- Ensure continuity across programs through standards enforcement
+- Engage vendors to stay current with IT Infrastructure trends and anticipate applicability to Humana
+- Emotional intelligence, management of relationships at all levels
+- Experience in Information Technology infrastructure design across the following skill concentrations
+- Enterprise platforms, Web, Database, & Middleware
+- Enterprise networks, Wifi, Telephony, & Video
+- End User, Cloud, Mobile, & Collaboration
+- Familiarity and/or experience with a majority of the following
+- IT Infrastructure transformation and datacenter migrations
+- Virtualization of servers and desktops (VMware, Citrix)
+- Cisco networking, MPLS, VOIP, WAN accelerationExcellent verbal and written communications skills
+- Ability to present solutions to VP-level executives
+- Experience selecting and overseeing software installations and managing relationships with software vendors
+- Bachelors or Master’s Degree in Computer Science or a related field
+- Create new business insight and perspective, clarify and illuminate strategic goals and strategies, guide strategy implementation, analyze business capabilities and identify synergistic opportunities
+- Provide technical leadership on strategic enterprise initiatives
+- Understand business objectives, research potential strategies, architect and design solutions
+- Provide leadership to guide implementation
+- Participate in business and technology strategic planning processes and guide business capability and technical capability initiative roadmaps
+- Establish future-state enterprise-centric IT architectures that consider business, information, application, infrastructure and security perspectives
+- Focus on the consistency, completeness, interoperability and quality of solutions
+- Advocate for simple, standard, centralized and automated solutions to business needs
+- Stay current on technologies, technology trends and directions, and best practices
+- 8 plus years of experience in enterprise architecture and IT leadership
+- Bachelor’s Degree in Engineering, Computer Science, MIS or related field
+- Deep hands-on technical expertise in multiple technical domains
+- Demonstrated excellence in verbal and written communication. Ability to communicate effectively with business leaders and technical experts at all organizational levels
+- Ability to listen for understanding, resolve conflicts, negotiate compromise, and collaboratively lead business leaders and project teams to optimal solutions
+- Ability to cultivate a shared strategic vision, articulate clear business objectives, and align the organization to achieve them
+- Experience in digital business transformation
+- Experience in enterprise application integration (EAI)
+- Strong business and IT financial management acumen
+- Understanding of enterprise IT Service Management concepts
+- Ability to establish and lead IT Centers of Excellence
+- Banking or other Financial Services experience is a plus
+- 3+ years of hands-on experience with EA in a federal environment
+- 6+ years of overall IT experience
+- The ability to obtain and maintain a government suitability/clearance
+- Exposure to diverse technical environments
+- Knowledge and expertise in Federal Enterprise Architecture Framework (FEAF)
+- Experience using architecture development tools such as Microsoft Visio and IBM System Architect
+- Knowledge and experience with systems development
+- Proficiency with Microsoft Office (i.e., Word, Excel, PowerPoint, Visio)
+- Ability to work with all levels of staff, as well as outside clients and vendors
+- Solid experience in one or more subdomains of Enterprise Architecture (business, application / integration, information / data, technology, innovation)
+- Industry knowledge in the area of the sports and fashion goods industry preferred
+- Acquiring understanding of the underlying issues in complex problems or situations by correctly relating these to simpler or better understood concepts, models or previous experiences
+- Experience and enthusiasm in Enterprise Architecture in a dynamic international matrix organisation
+- 8+ years IT experience. At least 4+ in Enterprise, Domain or Segment Architecture
+- 4+ years experience in method driven approach to execution (TOGAF, Zachman, etc.)
+- Leadership qualities and ability to coordinate physical and virtual resources and initiatives
+- Executive-level interpersonal, verbal, written and presentation skills, good listener, ability to provide a trusted voice at the decision-making table and be an advocate of Microsoft’s vision and value proposition
+- Solid understanding of Microsoft’s offerings and experience with the implementation/adoption of key solutions and services such as Azure, Cloud, Platform & Productivity, Business Analytics, Devices & Mobility
+- Specialty skills including Enterprise Architecture, IT Portfolio Lifecycle Optimization, Organizational Design and Change Management, IT Governance, etc
+- Developand maintain architecture roadmaps and evolution plans
+- ·10+years of progressively responsible leadership experience with comprehensiveexperience in enterprise strategy, planning, architecture, and/or engineering.5+ years of experience as a Sr. Architect
+- ·Abilityto influence team members without direct authority and effectively atestablishing working relationships in order to drive results
+- ·Provenexperience and record of leading large transformation or improvement efforts asa technical project manager, technical lead, or development manager
+- ·Demonstratedknowledge of common industry architecture frameworks such as TOGAF, Zachman,etc
+- ·Knowledgeof n-tier design and e-business technologies such as application/web servers, mobile,collaboration, business intelligence,integration middleware and messaging
+- ·Abilityto analyze and challenge current working methods to create improvements inprocesses and results
+- ·Comfortabledealing with ambiguity, making decisions with sub-optimal/incompleteinformation
+- ·Abilityto work independently within a geographically dispersed team
+- ·Strongverbal and written communication, negotiation, analytical, time management andorganizational skills. Able to multitask and adapt quickly to change and coordinateactivities with others
+- Mustpossess an Enterprise perspective: ability to understand the broader implicationsof strategy across all business units, while visualizing the project-level andoperational implications
+- Business/processknowledge of the media and entertainment industry highly desired
+- 1 Manage Program budge
+- 2 Establish measuring tool for assessing the employee's job performance
+- 3 Manage client requirements and get full understanding of business needs
+- 4 Manage Sprint Teams for deliverables
+- Applies consultative services selling skills to develop attractive value propositions for strategic VMware customers
+- Develop and qualify leads and manage them through the sales cycle from prospect to qualified leads to proposal to contract including coordination of appropriate personnel within the company
+- Gather and document customer defined requirements from which proposed solutions are developed
+- Drive proposal development process from solution strategy discussions through solution design, pricing, proposal document preparation and review
+- Drive contract preparation process from strategy discussions through contract preparation and negotiations
+- Maintains effective customer relationships with key senior-level decision makers and influencers in order to understand the customer's requirements, match them with the organisation's solutions, and close the deal
+- Strong consultative selling experience of IT datacenter managed services into mid to large companies
+- Experience supporting a managed services, hosting, or IT outsourcing business operation
+- Deep understanding of hosting and managed services delivery processes and best practices including respect for Service Level Agreements
+- Is self-motivated, energetic, dedicated, driven, tenacious, achiever, well presented, able to communicate effectively at all levels
+- Has the ability to and work ethic to efficiently develop proposals and scopes for the solution responses
+- Ensure that propositions are technically sound, deliverable, competitive and representative of market leadership in the application of technology to addressing business issues or outcomes
+- Ensures effective client engagement and stakeholder management during assignment
+- Has a strong Business and financial acumen
+- Effective presentation and negotiation skills
+- In industry knowledge in area’s including cloud technologies, virtualisation, application modernisation in relation to managed services
+- Familiarity with systems management concepts, processes and standards; capacity/performance management and the fundamentals of ITIL
+- Lead the development and launch of the network strategy from concept to delivery with a focus on new technologies, particularly virtualization and software-defined networks (SDN)
+- Create compelling business cases to help drive network evolution in collaboration with stakeholders, partners and customers
+- Collaborate with technology and business constituents to define the network technologies roadmap to drive innovation and differentiating solutions in support of Humana’s business strategies
+- Develop relationships with constituents, collaborate with and support initiatives to help drive efforts towards further virtualization of infrastructure and create a hybrid cloud model and transformation of infrastructure to a set of services
+- Business maturity to educate and persuade leaders across the organization on issues not only related to information technology, but on a myriad of strategic and operational matters impacting business partners and customers
+- End-to-end accountability for all network service related applications, infrastructure and operations
+- Establish best practice methodology for problem resolution in a 24 x 7, high volume, high availability, critical production environment
+- Provide thought leadership to guide the teams to manage the demands from projects and technology upgrades, including near-term direction for global vendor strategy, technology strategy and global alignment of networks
+- Understand business cycles, to proactively create an effective forecast and capacity models to support business demands
+- Create a seamless customer user experience that drives productivity and satisfaction
+- Mentor, manage, and motivate high-performing technologists and set clear priorities to achieve department goals
+- Manage oversight of multiple highly complex technology solutions based on a combination of vendors, custom solutions, and internal resources
+- Decision making authority is broad and can have significant material impact on cost, business planning and success of Humana's core business
+- Manage adoption of new services while recommending improvements and enhancements to capabilities in the Network group to provide support of new business opportunities
+- Oversee technical architecture and infrastructure planning as well as network system hardware and software engineering activities
+- Ensure that Information Security and risk management are embedded within the culture requiring continuous improvement to a complex set of functions to coordinate security and compliance risks related to information systems and assets. Drive coordination, consensus and execution to mitigate cyber risk issues and emerging threats in such a dynamic environment
+- Determine need for new products and systems based on client needs and technology improvements
+- Lead development of innovation and strategic direction in application of theories and concepts in data network design, configuration, administration, maintenance and/or support
+- Analyze network from a cost, capacity, and forecast perspective, and evaluate new network technologies and applications
+- Develop strategic roadmap to ensure network operations goals are met
+- Work closely with other departments to proactively ensure the network is capable of handling emerging or future business requirements
+- Participate in disaster recovery/business continuity activities as needed
+- Work through corporate culture with purpose and energy to promote unified approach
+- Establish standards and governance in future acquisitions to mitigate risk and maximize network stability
+- Develop and manage an annual operating budget of $65-70 million
+- Experience leading a large Network Engineering and Operations team for an enterprise that has heavy consumer facing network infrastructure and a large B2B, and B2C network interactions
+- Proven success in transforming from operational batch mentality into a highly sensitive, high availability, transactional network
+- Experience working with highly effective engineering teams through major technology transitions
+- Prior experience in driving and leading enterprise technology and cultural transformation programs
+- Demonstrated understanding of technologies that are in the ecosystem of the network technologies
+- Prior experience in a dedicated role around defining network strategy
+- Demonstrated consistent and steady growth in career, and demonstrated end-to-end accountability of the technology and services offered
+- Hands-on experience in designing and deploying large scale-out network technologies
+- Experience in managing cost reduction programs
+- Excellent communications skills (verbal and written) and proven ability to drive consensus across diverse/global technology teams
+- Undergraduate degree required; Engineering degree strongly preferred
+- Must have strong and pragmatic views about open standards and with supporting evidence
+- Track record in developing next-generation leaders
+- Demonstrated experience in metrics driven management with accountability
+- Drive technology and business planning sessions, create technology strategy documents and contribute to the bank’s technology roadmap development
+- Research and maintain knowledge in emerging technologies and possible application to the business
+- Analyze industry, technology, and market trends to determine their potential impacts on the enterprise
+- Identify business requirements that affect the enterprise architecture and provide solutions that integrate into the overall architectural vision and strategy
+- Work closely with subject matter expert and technology discipline leaders to continually enhance reference architecture, technology standards, policy and governance
+- Provide expertise in the development of standards, architectural governance, design patterns and IT practices
+- “Sell" the enterprise architecture process, its outcome and ongoing results
+- Define or refine bank’s software development methodology, promote coding conventions and documentation standards. Review current best practices for the selected framework and establish the initial architecture for applications
+- Bachelor’s degree in Computer Science, MIS or a related field or equivalent work experience
+- Expert understanding of enterprise and service design patterns and best practices
+- Enterprise application integration (EAI) experience
+- Expert knowledge of database solutions, application services, messaging backbone, application integration and architecture patterns
+- Ability to communicate technical info and ideas so others will understand
+- Demonstrated client interfacing skills; a positive attitude, high energy, strong interpersonal skills, and highly motivated
+- Demonstrated strong analytical skills and business presentation skills
+- Thrives in a dynamic work environment, does whatever it takes to deliver successfully; exhibits flexibility, and is recognized as being a strong team player
+- Minimum 12 years of progressive experience in designing , developing and supporting BI/DW solutions (1)
+- Minimum 5 years of progressive experience in Enterprise Architecture (1)
+- Proficiency with Strategic Enterprise Architecture and Data Engineering principles and guidelines (1)
+- Proficiency with Enterprise Information Architecture Frameworks (1)
+- Expertise in Relational/OLAP/Columnar Database Technologies (1)
+- Expertise in Enterprise Data Integration and Enterprise Application Integration Tools and Technologies (1)
+- Expertise in Master Data management, Data Quality and Data Profiling Tools and Technologies (1)
+- Expertise in building and managing complex data models (canonical/logical/physical) (1)
+- Experience with Data Security and Data Privacy standards and regulations (1)
+- Expertise in writing SQL subroutines like stored procedures, functions, views and triggers (1)
+- Hands on experience with large data conversion and data migration projects (1)
+- Expertise in OLAP tools and techniques (1)
+- Expertise in ESB based Web Services development and deployment (1)
+- Expertise in using Version Control Systems (1)
+- Excellent leadership, organization, and communication skills (1)
+- Experience with Project Management Methodologies like Agile, ITIL (1)
+- Expertise in Solution Roadmap and Strategy Planning (1)
+- Experience in Managing technology teams (1)
+- Experience with Apparel Retailing Business (2)
+- Experience with Data Domains like Product/Consumer/Customer/Brand (2)
+- Participate in and initiate group improvement activities and initiatives to improve process and product quality inpursuit of excellence
+- Participate in and monitor effectiveness of requirement, design, code, unit test and QA tes case reviews and inspections
+- Understand, support and improve the OSS
+- 15+ years relevant software development experience creating business applications with relational database systems
+- 5+ years technical leadership experience
+- 5+ years programmatic interaction with relational database systems
+- Ability to provide technical leadership to a team
+- Ability to lead and/or coordinate multiple teams or projects concurrently
+- Expanding knowledge in many development languages, applications, and tools
+- Must develop effective relationships with internal and external contacts and work well within a team
+- Experience in computer-based testing, certification, and licensing industry preferred
+- Design and implementation of infrastructure projects
+- 3+ years of experience in infrastructure design and implementation (at least two projects in leading role)
+- Very Good knowledge of UNIX/Linux (AIX is advantage, Wintel
+- Expert level, LINUX RED HAT, SUSE L5 XEN, VMware virtualization
+- Very Good knowledge of TSM, TWS, ASM, RCM
+- Deep understanding of Banking and Finance Sector and related Infrastructures
+- Good knowledge of High Availability
+- Overall knowledge of datacenter infrastructure
+- Team management skills preferred (especially technical leadership)
+- Communicative English (for internal use)
+- At least 3 years experience in Infrastructure design and implementation knowledge, Unix/Linux, Wintel
+- At least 6 years experience in Infrastructure design and implementation knowledge, Unix/Linux, Wintel
+- At least 3 years experience in Infrastructure design and implementation knowledge
+- At least 3 years experience in Unix/Linux, Wintel
+- As we are converging IT and Communication/Mobility into ICT solutions, solution complexity is increasing and the skills and knowledge of an ICT architect to master the area will become even more complex
+- The ICT architect creates principles, models and guidelines from strategies
+- Converts requirements to a cost efficient solution architecture compliant to architectural principles, models and guidelines
+- Ensuring consistency between business, information and technology
+- The ICT Architect interacts with internal stakeholders and external customers to define and provide solutions enhancing their competitive position
+- The ICT Architect acts as an internal consultant for the ITTE Solutions and ITTE Service Delivery functional areas
+- Promote and position Ericsson as a leader in the ICT areas
+- Promote the implementation of ‘One MTN GCU’ strategy across all 22 customer units
+- Travel to and support local CUs to drive sales of Ericsson solutions across the 22 operations
+- Drive and create new business opportunities through the use of innovative third party solutions
+- Work closely with MTN Group CIO team in order to position Ericsson as a leader in new areas, pre RFP
+- Support and work with the GCU Head of Operations in case of critical emergency product or solution escalations
+- Act as the point of contact between the MTN GCU and the Ericsson Product Unit for certain solution areas
+- Travel to and build a close relationship with MTN CIOs and CMOs in order to strategize on IT solutions and identify business needs and priorities
+- Develop and lead a best in class BUSS/Information technology function for the MTN GCU – this will involve creating common processes and practices and leading a single high performing BUSS team for the MTN GCU
+- Responsible for driving quality and ensuring a high and consistent standard of solutions across the GCU
+- Promote knowledge sharing and solution re-use across the 22 CUs
+- Higher level degree in Computing or Engineering / ICT
+- Good business acumen and financial understanding is key
+- Minimum of 7 years relevant industry experience
+- Certifications in area of responsibility are seen as plus, but are not normally mandatory for the role. (e.g. ITIL, TOGAF, COBIT, eTOM)
+- Ericsson certified senior architect
+- Strong E2E knowledge of BUSS portfolio
+- Deep end to end understanding of telecommunications networks
+- Past experience of working with a telecom operator preferable
+- Proven track record and leadership experience in operations/delivery role
+- Proven track record and leadership experience in sales role
+- Strong ability to drive existing and new business
+- Ability to effectively translate customer engagement needs into requirements on pre-sales and delivery capabilities
+- Ability to functionally lead complex initiatives for multiple customers
+- Strong innovative approach from vision to strategic direction for GCU, effectively balancing business need and cost efficiency
+- Ability to manage relationships within Ericsson as well as the customer organization
+- Strong communicator and ability to motivate and engage to empower and develop culture, competence and skills
+- Ability to work with multi-cultural and cross functional teams, empowering and creating synergies
+- Assess and recommend technology direction for application and business proposals
+- Identify and drive technology reuse opportunities across application teams and Synchrony processes
+- Develop, communicate and enforce technology standards, guidelines and procedures
+- Evaluate new suppliers and technology products to reduce supplier risk Synchrony Financial
+- Develop business cases for emerging technologies/standards and Build vs. Buy decisions around Architecture related HW/SW
+- Work with internal and external vendors on architecture-related projects/analysis. Provide timely project status to key stakeholders
+- Participate in tactical planning (e.g., with Systems Engineering Team) and project execution (e.g., with Project Managers) to advise on and validate strategic intentions within Synchrony and Client environments
+- Bachelor's degree in computer science, system analysis or a related study and 3 years or IT experience, OR in lieu of degree High School Diploma/GED and minimum 5 years of hands-on design and implementation of business solutions and Architecture experience
+- Minimum 3 years of hands-on design and implementation of business solutions
+- Minimum of 2 years Architecture experience
+- Experience with application development methodologies for large scale business solutions
+- Experience with application integration e.g. SOA, object-oriented analysis and design, or client/server systems
+- Basic knowledge of enterprise information management principles
+- Excellent planning, facilitation and organizational skills
+- Ability to estimate the financial impact of individual solution architecture alternatives
+- Knowledge of key aspects of the retail banking business
+- Understanding of the enterprise's political climate and how to respond to the political challenges
+- Background in Java is preferred but open to other technologies
+- Strong network within enterprise architecture and broader technology community with the ability to draw upon that network and add value to internal debate using market intelligence
+- Interpersonal and leadership skills - leadership, collaboration, facilitation, and negotiation skills
+- Apply architecture disciplines, tools and models to define targets, roadmaps and standards
+- Identify opportunities to leverage technology synergies to save costs and improve efficiencies
+- Seek and exploit business adjacencies through designing solutions for technology gaps
+- Initiate innovative applications of technology to capture new business value
+- Set and guide the implementation of the technology infrastructure architecture
+- Develop and recommend Technology Policies and Standards
+- Conduct architectural reviews at the respective Architecture Councils at check points along the PDLC to ensure integrity of Architectural Principles and approval of exceptions
+- Establish and maintain effective governance processes including training, advice and
+- Lead through example and build the appropriate culture and values
+- Proactive in seeking regular assurance that the Architecture team is performing to an acceptable risk and control standard
+- Include internal controls, legal and regulatory requirements in the processes of Architecture
+- Act quickly and decisively when any risk and control weakness becomes apparent and ensure they are addressed within an appropriate timeframe and, if necessary, escalated through the relevant committees
+- Co‐coordinating the activities of other technical staff and manage stakeholder expectations and requirements
+- Ensuring that the application/systems, data and technology aspects of the enterprise architecture are driven by the business imperatives of the organisation and that the requirements driving the overall architecture are managed consistently and effectively
+- Understanding and presenting the immediate/tactical and strategic benefits of adopting a consistent architectural approach within the context of the business
+- Assessing the requirements and presenting architectural recommendations that are in line with the strategic vision for the enterprise and wider best practice
+- Providing leadership to the wider architecture and technical community and maintaining constructive relationships with suppliers to allow effective and productive evaluation of vendor offerings against business requirements, constraints and priorities
+- Ensuring that the various views comprising the enterprise architecture are consistent and coherent, at an appropriate level of detail and that changes are controlled so as to maintain consistency
+- Full life cycle experience, responsible for the development of a complete set of architectural views for an enterprise in accordance with one of the more common architecture frameworks (e.g. Zachman, TOGAF, DoDAF, MODAF, FEAF)
+- Strong business analysis skills and experience, including development of business vision and strategies, functional decomposition, requirements capture, process modelling
+- Strong knowledge of design and architectural patterns, and experience of SOA, Integration & Cloud
+- Experience of software development methodologies and structured approaches to development
+- Experience in presenting and explaining the architectural views to clients at all levels from technical/IT staff to CxO level
+- At least 5 years of relevant architecture experience and ideally have worked in Financial space for at least 3 years
+- Provide insight on the impacts of existing and emerging technologies on Enterprise Architecture products (IE SOA, Cloud, Server Virtualization, Infrastructure IT Services)
+- Guide technical teams in designing and developing solutions that align with the architectures and build modular architecture artifacts without full Enterprise Architecture reference products
+- Work with governance teams to identify and select applicable standards, best practices, and implementation patterns
+- Team player with the ability to work in a fast-paced environment, think innovatively and be proactive
+- The ability to performs well with short fused timelines in an ad-hoc environment without being overwhelmed
+- As an Enterprise Architect, you will be responsible for architect level design and development of BSS/OSS systems, using analysis and models to predict and measure outcomes and consequences of design. In many cases, you will be the sole designer responsible for the future of a Client’s investment in enterprise solution renovation
+- You will also be responsible for leading and mentoring junior architects from the ground up and building a robust world class architecture team that have an arsenal of best practices, frameworks, and assets to drive efficiencies and commonality across our Clients
+- You will be a active participant in functional requirements and design sessions to ensure solutions meet the overall business & enterprise strategy
+- Develop and deliver Business IT transformation blueprints using Ericsson methodologies + best practices
+- Defining logical architecture future state roadmaps that align with a Client’s strategic business roadmaps
+- Responsible for learning and documenting our Clients current system environments and capabilities
+- Develop and deliver Enterprise Architecture frameworks where applicable
+- Develop architecture accelerators and frameworks for high re-usability at Ericsson leveraging our Ericsson methodology
+- Support sales engagements to ensure correct understanding of the opportunities to help improve the quality and accuracy of the Ericsson proposals and to better understand the key stakeholders / influencers
+- Setup, govern, and drive architecture review boards
+- Responsible for delivering the current state architecture specification and future state application specification across all lines of business, working alongside domain and application architects
+- Responsible for delivering the transition architecture roadmap
+- Responsible for architecture assessments
+- Mastery of enterprise architecture and information management planning methodologies, and extensive experience with common architectural frameworks
+- Solid experience with OOD/OOA, experience designing using UML, Class and Sequence diagrams and Use Cases. Experience in writing technical documents, giving presentations, and managing technical requirements. The candidate should possess experience with the following: JavaEE development frameworks (such as Spring), UI framework, SOA, Multi-tiered architecture, Messaging technologies, Schemas, JDBC, RDBMS, Virtualization, Cloud technologies etc
+- Highly experienced in negotiation with the business and Client architecture teams on future state solutions
+- Very strong critical thinker – balancing and communicating risks against architecture decisions
+- High effective problem solver, facing a constant set of complex and unique architecture problems
+- Thinking big – avoiding tunnel vision as you will be required to look at problems form multiple angles
+- Business savvy – must understand Telecom/BSS/OSS terminology and functionality in order to have effective discussions with the business
+- Self-driven and individual contributor – must have the ability to work independently and efficiently with little to no guidance
+- Advanced skills in MS Vision, MS Word, Outlook, PowerPoint and Excel
+- The primary responsibility of the EA is to validate the client business requirement as presented and ensure that the resulting solution meets business and technical requirements
+- Supports and participates in the conceptualization and development of sales strategy
+- Develops and delivers executive presentations to clients both in support of Business Development and the Pursuit
+- Ensure that the solution shape can be delivered as defined, within time and budget; will achieve the benefits promised to the client, and meets the quality objectives
+- Articulate dependencies between 'system' and solution components [e.g. software, hardware, platforms, applications, etc.]
+- Ensure there is a reference architecture and design overview that
+- Provides on point support & coaching for identified pursuits
+- Participation in Win/Loss reviews
+- Provides feedback to practice teams and competitive intelligence team
+- Transfers knowledge to others and serves as a mentor/coach for selected specialty domain areas
+- Supports Due Diligence and Post-Contract Verification / Negotiation, if required
+- Participates in reviews to ensure appropriateness, completeness and quality of the proposed solution
+- Technical university or Bachelor preferred; Masters degree preferred or equivalent experience
+- 12+ years of relevant experience in solution selling and/or consultative selling and delivery or account management
+- 5+ years experience in shaping large deals of enterprise or global solutions that span multiple technologies and disciplines
+- Demonstrated ability to interpret technology and market trends as a foundation for technology and product roadmaps)
+- Strong outsourcing and services knowledge with market and industry awareness
+- Superior communication skills includes verbal, written, and presentation forms, negotiation and influence and engagement skills
+- Practice leadership, engagement skills and ability to build partnerships across various functions
+- Ability to understand the shape of a deal and how the solution can be influenced by Financial guidelines, contractual frameworks as well as the business drivers
+- Negotiation skills both externally with the customer and internally with Sales around what is good business for both the customer and for the company - able to interact at all levels from senior management to back office delivery teams
+- Ability to discuss deals at CXO level in the customer community
+- Excellent customer influence and negotiation skills
+- Ability to provide guidance at both RLT/SMR as required on deal options/recommendations
+- Strong business and industry/practice skills together with good technical background
+- Experience of working with complex outsourcing propositions that included ITO, Applications, multiple geographies, languages and delivery centres
+- Demonstrable track record of success in the evolution of complex outsourcing solutions
+- IT experience
+- Technical experience with systems development
+- Hands on knowledge with EA repositories (IBM System Architect, Troux, etc.)
+- Experience with EA projects and programs
+- Valid SC Clearance is essential
+- TOGAF Certification
+- Experience of writing compelling client "Case for change" documents and winning consultating proposals
+- Experience with Agile methodology
+- Development back ground with knowledge of a range of development tools and products
+- Develop, socialize and maintain Single point of failure proactive identification
+- Day-to-day management, understanding and documenting the resilience position for RBC’s critical systems
+- Identifying, tracking and remediating Single Points of Failure to ensure an enhanced resiliency posture
+- Provide data analysis and reporting on various aspects of technology resiliency to identify opportunities and address resiliency weaknesses
+- Analyze various and separate enterprise data repositories to identify trends and opportunities to improve resiliency posture
+- Provide resilience dashboard information gathering at a system level
+- Driving assessment and identification of resilience weaknesses in critical services, providing 1st level recommendations
+- Running and facilitating resilience and continuity management meetings with cross technology representation
+- Providing detailed written communications including roll up system dashboards to service level. Helping to drive technology and franchise discussions
+- Advanced to expert knowledge, experience and understanding of architecture, applications, system design and integration
+- A good understanding of resilience and continuity strategies including IT resiliency policy
+- An understanding of technology and management disciplines
+- Knowledge of risk management and controls appropriate to financial service
+- A Proven ability to work with other functions in large IT organizations including comfortably working with senior managers
+- Strong interpersonal skills, along with excellent written and verbal communication skills
+- 7 - 10 years in IT; a minimum of 5 years of technical leadership and architecture experience, including demonstrated experience working with object-oriented and service-oriented methodologies and participating in the design and development of large-scale applications in a distributed computing environment
+- Experience in a large financial services environment designing complex solutions is highly desirable
+- Comprehensive knowledge of problem analysis, structured analysis, and design and programming techniques
+- Ability to effectively adapt to rapidly changing technology and apply it to business needs
+- Strong analytical and conceptual skills; ability to create original concepts/theories for various projects
+- Ability to analyze project needs and determine resources needed to meet objectives and solve problems that involve remote and elusive symptoms, often spanning multiple environments in a business area
+- Project planning and management skills, including scope of work, time estimation, and resource assignment
+- Ability to establish and maintain a high level of customer trust and confidence in the application team’s knowledge of and concern for customer requirements
+- Ability to mentor application developers
+- Working knowledge of one or more multi-user, multitasking operating system
+- Ability to consolidate business and technical requirements and model data
+- Excellent interpersonal skills (both written and verbal) and strong leadership qualities
+- Ability to lead and facilitate effective meetings
+- Team player with client oriented focus
+- Must have very sound & in-depth understanding of SOA/EAI/ESB/BPM concepts, Event Driven Architecture, frameworks, enterprise integration patterns including security patterns
+- Ability to design and build federated platforms facilitating SSO, Authentication, and authorization across multiple applications
+- Ability to audit, review, and govern architecture practices and procedures
+- Will be responsible for designing solutions that will enable a simpler, more secure, and more efficient future state
+- Developing and maintaining application design patterns, overseeing the development of foundational components and overseeing performance and security testing of application modules and interfaces
+- Identify emerging trends and thought leadership in software development and introduce these to the enterprise
+- Capacity Planning for High-Availability implementations
+- Object Oriented Analysis and Design; Continuous Integration; Test Automation
+- Develop, maintain, communicate and govern integration patterns
+- MUST be proficient in the following
+- 10 years+ experience working in a similar senior IT role
+- Proven record of working with senior executives across the whole business, defining and delivering business value from IT
+- Deep understanding of markets, industries, business, customers, and technology
+- Experience of assessment and analysis, design, business case development, architecture, envisioning, planning, deployment, benefits analysis, and management
+- You will have breadth of experience across IT with a recent focus on cloud technology
+- Ability to quickly establish strong relationships with senior business and IT stakeholders
+- Must be a true technologies and be passionate about working with new technologies
+- Ability to communicate effectively with tech and non tech audiences
+- Must be costumer focused
+- Bachelors degree in information technology or equivalent work experience
+- Design and lead the implementation of an enterprise-wide technical and architecture practice based on enterprise business requirements and information technology strategies. Provide solution architecture to projects as needed
+- Consult with business and IT leaders to develop project scopes and business cases that meet both business and IT strategies as well as roadmaps
+- Consult with infrastructure, security, and application development projects to fit systems to architecture and identify when it is necessary to modify the technical architecture to accommodate project needs
+- Oversee the evaluation and selection of hardware and software product standards, and the design of standard configurations
+- Define the principles to guide technology decisions for the enterprise
+- Document all technical architecture design and analysis work. Update the application portfolio and map all applications to a business capability map
+- Understand, advocate, and augment the principles of information technology strategies
+- Analyze enterprise business drivers to determine business information and technical architecture requirements
+- Analyze technology industry and market trends and determine potential impact upon the enterprise
+- Analyze current information technology environment to detect critical deficiencies and recommend solutions for improvement
+- Design and direct the governance activities associated with ensuring compliance with the enterprise architecture
+- Identify organizational (skills, processes, structures, and culture) and financial impact of the enterprise architecture
+- “Sell” the architecture process, its outcome, and ongoing results
+- Deliver Enterprise IT strategic roadmaps IT (3+ year forward looking view) that are focused on technology capabilities Cloud and new technology solutions such as Mobile
+- Contribute and represent Cloud and Technology at the IT Architectural Board
+- Previous experience with developing an Enterprise Cloud Strategy and direct experience with deploying business applications to the Cloud
+- Good understanding of private and public cloud design considerations and limitations in the areas of virtualization and global infrastructure, distributed systems, load balancing and networking, massive data storage, and security
+- Proven track record of leading medium sized to large sized solutions projects of moderate complexity including scoping
+- Working knowledge of application and data integration technologies and patterns (e.g. Enterprise Service Bus)
+- Working knowledge in Information Security, Data Privacy and regulatory compliance as it pertains to data
+- Strong analytical, communication and problem solving skills
+- Strong skills related to IT cost modeling and analysis
+- Understanding and presenting the immediate/tactical and strategic benefits of adopting a consistent architectural approach within the context of the client’s business to help the stakeholders justify investments
+- Providing leadership to the wider architecture and technical community, productive evaluation of vendor offerings against business requirements, constraints and priorities
+- Advise on and participate in the governance arrangements set up to ensure that the enterprise architecture delivers the desired benefits to the business
+- Serve as a subject matter expert for architectural frameworks, methods and tools
+- Act as coach to advice and assist consultants, analysts, technical specialists and architects in any architecture disciplines.any architecture disciplines
+- Conduct technical, architectural and business research in analyzing all areas of IT access to the Air Force enterprise, missions, processes and functions
+- Design and define a set of architecture artifacts to support the development of architectures in accordance with architecture policy
+- Provide guidance on the business architecture, the necessary level of management and administrative oversight to achieve the requirements and objectives of tasks
+- Lead the business process and technical experts to an appropriate enterprise architecture solution, fit for purpose and/or federation
+- Possess high level oral and written communication, problem solving, and diplomatic skill sets
+- Ability to enhance team spirit; proficient in teamwork -- coordination, collaboration, facilitation, and information sharing
+- Ability and willingness to work with challenging clients and provide effective communication for successful architecture development
+- Perform other tasks consistent with the goals and objectives of the department/contract
+- Software Development Lifecycle/Application Lifecycle Management (SDLC/ALM)
+- Software Implementation
+- Systems (software and hardware components) Architecture
+- Hardware/Networking/Infrastructure Architecture
+- Distributed Systems, including integration with third party services
+- Form relationships with senior business leaders and advocate technology innovation in business planning sessions
+- Lead enterprise services future state designs and supervise their implementation
+- Contribute to IT Strategy
+- Lead architecture functions such as; the Architecture Review Board, architecture modeling, and the usage of architecture principles, policies, standards, and patterns
+- Bachelor’s degree in computer science or related field, or equivalent training and experience
+- 8+ years experience using architecture methods to perform analysis and design for large-scale, mission-critical systems
+- In-depth knowledge of the retail business model
+- In-depth knowledge and experience with data architecture
+- Lead Projects ~~ Strategy ~~ Assessment ~~ Design ~~ Best Practices ~~ Communication
+- Lead complex projects and ensure the success of enterprise-level application rollouts. Determine and develop architectural approaches and solutions by conducting business reviews, documenting current systems, and developing recommendations at the capability level
+- Proactively assist in defining future projects. Bring enterprise perspective to all initiatives. Ensure projects comply with enterprise architecture. Lead technology direction within and across infrastructure teams. Participate in determination of domain standards, project requirements, and migration plans for infrastructure or business portfolios. Develop and ensure compliance with architectural principals and standards for various systems and components. Develop/maintain key strategy artifacts
+- Evaluate current architecture and influence future strategy and road maps with proactive feedback. Lead analysis of the current Technology environment to detect critical deficiencies and recommend solutions for improvement. Participate in detailed analysis to align requirements and equipment configurations with defined system specifications. Translate customer requirements to process and data requirements
+- Document and support applications and tools consistent with established specifications and business requirements. Document all architecture design and analysis work. Research, design and develop product hardware and software interfaces. Incorporate architectural principles into enterprise architectural design, including opportunities for common services and service reuse. Consult with capability development teams to fit/modify architecture to business objectives
+- Research, introduce and transition new technology into the organization. Keep abreast of Technology advances and issues across all enterprise domains. Research, test and recommend tools and practices for potential implementation. Provide technical assistance to implementation teams. Apply best practices using innovative ideas to increase awareness and effectiveness of enterprise architecture
+- Articulate, advocate and support the architecture perspective in strategy and delivery discussions with technology and business unit leaders. Publish accurate monthly dashboards. Encourage, foster and participate in cross-portfolio/capability dialogue. Collaborate with business leaders to obtain strategic requirements, colleagues to lead project delivery, vendor partners on product selections and research partners to understand the industry technology architecture view
+- Work experience in multiple technology areas and 2-3 years of relevant enterprise architecture experience in one or more specialty areas
+- Prior experience in design, development and implementation of application development solutions at an enterprise level
+- In-depth knowledge of application, information, infrastructure, middleware and security architectures
+- Demonstrated experience presenting architecture concepts and goals to technology leaders and business partners
+- Add additional job-specific preferred qualifications for this position
+- Operations Architecture: high-availability, reliability, operability, failover, disaster recovery, capacity/performance management; Understands value drivers; Understands delivery approaches; Experience in architecting and delivering of solutions that consider operations / availabilityData Architecture: customer identity and data management, operational data stores, data warehouses/mart, data distribution, data modeling, XML; Understands delivery approaches; Experience using (one or more of) DB2, Oracle, IMS; Experience in architecting data solutions
+- Integration Architecture: Messaging, queuing, transaction management, EIA tools; Understands value drivers; Understands delivery approaches; Experience in architecting and delivering of solutions that consider operations / availability
+- Business Architecture: Functional modeling, business services, process flows and metrics; Understand key value drivers and role in enterprise architecture
+- Strong leadership skills Ability to lead large teams (e.g., lead the leaders), delegating, passion to develop people, strong people radar; Demonstrated track record in mentoring new leaders and growing and organization
+- Recommends and participates in the development of architecture blueprints for related systems
+- Identifies and recommends areas appropriate for further study and participates in any proof of concept projects required to thoroughly investigate architectural possibilities and strengthen arguments for adoption
+- Aligns Enterprise Architecture with strategic product roadmaps
+- Contributes to the creation and review of a systems capability strategy which meets the strategic requirements of the business
+- Recommends and participates in the analysis, evaluation and development of enterprise long-term strategic and operation plans to ensure that the EA objectives are consistent with long-term business objectives
+- Advises and recommends enterprise architecture strategies, processes and methodologies
+- Researches overall information and communications technology solutions for technical requirements and business capabilities
+- Models and assesses the organizations’ baseline Architecture
+- Conducts and/or actively participates in meetings related to designated projects, with internal and external partners
+- Responsible for ensuring that architected solutions are implemented to standards
+- Develops models and plans to drive forward the strategy, taking advantage of opportunities to improve business performance. Analyzes impact of information systems, data management, practices, procedures, organization and technology
+- Identifies implementation risks and analyzes potential impact on the enterprise and on the achievement of scheduled objectives
+- Recommends and participates in activities related to the documentation and development of the Enterprise Architecture
+- Leads activities related to the maintenance of the Enterprise Architecture
+- In-Store Server Architecture Model & Implementation
+- Integrations with packaged frameworks
+- Development experience with n-tier architecture
+- Exposure with emerging enterprise technologies
+- Infrastructure technologies OS, DBMS, Middleware, Data warehouse and analytics
+- Minimum of 10 years of professional experience designing, implementing and supporting information technology applications as an Enterprise Architect
+- Bachelor’s degree in MIS or Computer Science required
+- Proven proficiency and aptitude in Distributed System technologies and computer science
+- Demonstrated ability to resolve complex technical problems involving heterogeneous systems and technologies with minimal supervision and assistance
+- Technical leadership experience with Information Systems
+- Proven aptitude in architecture, computer sciences, applications and solutions
+- Ability to perform structured systems analysis; (2) communicate effectively both orally and in writing; (3) deal tactfully, effectively and equitably with customers, vendors, and employees; (4) plan and effectively conduct meetings and make management presentations; and (5) obtain and furnish information with utmost tact and courtesy
+- Experience leading development efforts in Microsoft .Net or Java based frameworks and deployment methodologies. Experience with Node.js and AWS architecture a plus
+- Previous experience leading large scale software development, services engagements, and operational data centers
+- Contributes significantly to enterprise architecture strategy, vision, roadmap, and standards to meet business objectives
+- Analyze and document the current architecture state, major contributor to the desired future state and create roadmaps to bridge the gaps along with the rest of the architecture team
+- Document the IS landscape, existing systems, technologies and solutions
+- Asses risk and opportunities for improvement, and make concrete recommendations for implementation
+- Consult with other architects and project team members define and validate solution architectures across a wide variety of projects and systems
+- Create, maintain, and publish enterprise reference architectures with appropriate level of detail
+- Develop standard patterns and practices that encompass technology selection and adoption, solution architecture, data management and data integration, to be advocated by the architecture team
+- Research and monitor technology trends to provide guidance for strategic change
+- Participate as a key part of the Architecture Team and Architecture Review Board
+- Review project planning, solution design, and change requests for alignment with standard practices and long-term strategy
+- Contribute especially towards architecture and technology planning for Columbia’s Retail organization
+- Develop and deliver business IT transformation blueprints using Ericsson methodologies. During the customer engagements examine the business strategy, define strategic capability requirements, define the logical architecture and logical architecture end game required to enable business capabilities, baseline the current systems environment and current capabilities, develop both a tactical and strategic roadmap plans, present finding to the senior mgmt
+- Examine the overall IT strategy, architecture blueprints, infrastructure, application and data, IT processes, business engagement models and IT organization construct, project office and project mgmt, sourcing and financial aspect of IT. Identify opportunities to improve the cost model, grades of service and optimize the program delivery, IT infrastructure & operations, IT organization model, sourcing, business alignment and finances. Prioritize opportunities and define roadmaps
+- Develop and deliver Enterprise Architecture framework engagements where customers have adopted the Ericsson EVA methodology / frameworks to accelerate the IT transformation and IT delivery programs. Help customer though the processes of establishing and utilizing the frameworks during IT transformation planning and delivery programs
+- Lead, manage, mentor and grow a team of high performance Architects with the necessary enterprise architecture, strategy and planning skills to perform and deliver the strategies and framework engagements
+- Help evolve the architecture frameworks and methodologies to be easy to use, practical to implement and at the same time ensure acceptance, utilization and promulgation across the relevant Ericsson organization groups
+- Bring and share your extensive industry vertical and IT Enterprise architecture knowledge and practical experience with your fellow practitioners and architects and with customers during client engagements
+- Develop lasting professional trusted relationship with the key customer stakeholders
+- A degree/diploma in Computer Science/IT/Engineering/Applied Sciences is required
+- Distinguished Certified IT Architect (preferable)
+- Experience in at least one of the 4 contributing architecture disciplines: business analysis, applications/systems engineering, data/information architectures and technical architectures
+- Full life cycle experience, able to development a complete set of architectural views for an enterprise in accordance standard architecture frameworks
+- Strong knowledge of design and architectural patterns
+- Experience of at least one of the commonly‐used methods, notations and tools (e.g. MooD, Rational Suite, METIS, Artisan, ISSE, System Architect, UML, RUP)
+- Experience of software development methodologies and structured approaches to system development
+- Experience of educational technologies and/or educational context for broader technologies
+- Experience in management consulting at a senior level or has operated in a senior management role within an education context
+- Ability to demonstrate leadership and to engage colleagues effectively to achieve client’s goals
+- Knowledge and understanding of key global educational themes and trends and the role of technology to support these
+- Excellent skills in navigating issues in education organisations and overcoming obstacles with strategic problem solving skills
+- Experience of working/liaising with senior management at institutional, corporate and ministry level
+- Ability to engage effectively and credibly across all levels of the client organisation to affect change
+- Strong interpersonal skills including ability to engage in consultative discovery and review exercises, to build trust and to engage key stakeholders
+- Creative thinker who is able to quickly understand the requirements, consider issues from different stakeholder perspectives and apply robust consultative problem-solving technique to arrive at a solution
+- Ability to work both independently and as part of a team to deliver the high-quality consulting engagements required
+- Willingness to travel (up to 70% of time), with an expectation of significant international travel
+- Master’s degree required or equivalent experience (5-10 years)
+- PhD or EdD preferred
+- Architectural knowledge of Blackboard technologies and/or other learning management systems
+- Some previous experience in developing and deploying new services offerings
+- Second language preferred: Spanish, Portuguese, French, Arabic
+- Large, Enterprise Systems design
+- Pattern based architecture methodology
+- Functional Decomposition
+- Practical knowledge of application/data service design and implementation including REST
+- Practical knowledge of various data base technologies including relational and nosql/big-data
+- Cloud Architecture preferably AWS
+- Hands on Programming Experience in JVM based languages i.e. Java, Scala, Clojure
+- Flexibility, team focus, and strong interpersonal skills
+- Experience throughout the entire project lifecycle
+- Ability to reach consensus among diverse IT and business partner groups
+- Scalable performance
+- Service oriented
+- Loosely coupled integration
+- Senior level experience deploying applications and services in Java/Scala/J2EE
+- Intermediate level of AWS Architecture Experience
+- Intermediate level experience developing standards and/or working with standards committees
+- Ability to reach consensus among diverse IT and business partner group
+- Consult with business and technology leadership on new initiatives and business challenges. Drive technology and business planning sessions, create technology strategy documents and contribute to the technology roadmap development
+- Participates and facilitates in the creation of governing principles to guide the EA strategy and solution decisions for the enterprise
+- Act as an advisor to project teams, to fit projects to enterprise architecture and when necessary modify the enterprise architecture to accommodate project needs
+- Identifies business requirements that affect the enterprise architecture and provide solutions that integrate into the overall architectural vision and strategy
+- Maintains an organization-wide view current and future business and application architecture in support of goals and objectives
+- Provides expertise in the development of standards, architectural governance, design patterns and IT practices
+- Sell" the enterprise architecture process, its outcome and ongoing results
+- 10+ years progressively responsible positions in Information Technology
+- Expert working knowledge of SOA design patterns and best practices
+- Demonstrates strong analytical skills and business presentation skills
+- Thrives in a dynamic work environment, does whatever it takes to delivery successfully, and exhibits flexibility, and is recognized as being a strong team player
+- Deliver Enterprise IT strategic roadmaps IT (3+ year forward looking view) that are focused on technology capabilities Information and Data Platform solutions
+- Create and maintain the Enterprise Data Models at the Conceptual, Logical and Physical Level
+- Steward of Enterprise Data Lifecycle Management including data quality, data conversion, and data security technologies
+- Understands how data is, or will be, used and implication on people, processes, products and technology
+- Partner with IT functions and their solution architects to design integrated IT solutions (including the build vs. buy decision) that translate business capability requirements and
+- Adhere to established global IT technology standards (infrastructure, application, integration, data)
+- Contribute and represent Information and Data at the IT Architectural Board
+- Previous experience with developing an Enterprise Information Strategy and direct experience with deploying enterprise data solutions
+- Good understanding of data design considerations and limitations in the areas of BI and Reporting, massive data storage and information security
+- Working knowledge of application and data integration technologies and patterns (e.g. Enterprise Service Bus and Master Data Management)
+- Working knowledge in Master Data Management, Big Data Technologies and Visualization Tools such as Hadoop, SAP HANA, Tableau, Teradata and Sybase
+- Provide technical expertise and facilitate future-state architecture to clients and team members
+- Provide insight on the impacts of existing and emerging technologies such as Cloud, Mobile, Big Data, and information standards for Enterprise Architecture
+- Guide technical teams in designing and developing solutions that align with the architectures and prepare architecture artifacts
+- Be knowledgeable on Enterprise Architecture frameworks such as Federal Enterprise Architecture (FEAF) or DoD Architecture Framework (DoDAF)
+- Conduct research, develop position papers, reports and presentations for briefings to application teams
+- 5+ years hands on knowledge with EA repositories for example, IBM System Architect, Sparx, Troux, etc
+- Understanding of Federal information standards and mandates (FISMA, Cloud initiative, FITARA, Data Consolidation initiative)
+- Knowledge of Federal agency business and technology enterprise
+- Responsible for data, application and technology architecture and Security & Fraud Risk
+- Accountable for approval of solution designs within Security & Fraud Risk
+- Responsible for ensuring Architecture Governance processes and standards are implemented for Security & Fraud Risk and leads the technical design authority
+- Focus mainly on large or multiple architecture projects within Risk sub function
+- Previous IT architecture experience working within financial services
+- Good understanding of Security & Fraud Risk
+- Experience dealing with senior business stakeholders
+- Serve as a technical leader on our most demanding, cross-functional projects
+- Interact with our product management teams to align their vision with a comprehensive technical strategy to achieve it
+- Drive all engineering teams to automate every part of their role to increase velocity of delivery
+- Ensure the quality of architecture and design of systems across the organization
+- Functionally decompose complex problems into simple, straight-forward solutions
+- Fully and completely understand system inter dependencies and limitations
+- Possess expert knowledge in performance, scalability, enterprise system architecture, and engineering best practices
+- Effectively research and benchmark technology against other best in class automated marketing technologies
+- Manage external vendor relationships including evaluation and selection of potential partners
+- Assist in the career development of others and the Citi developer community at large on advanced technical issues and helping managers guide the career growth of their team members
+- Exert technical influence over multiple teams, increasing their productivity and effectiveness by sharing your deep knowledge and experience
+- Contribute intellectual property through patent generation
+- Bachelors of Science degree in Computer Science or related field
+- 12+ years of relevant, broad engineering experience
+- Proven track record of leading the delivery of large-scale, high-quality systems in an agile manner
+- Deep hands-on technical expertise in multiple major technical areas: large scale systems architecture, designing complex distributed systems, implementing monitoring or management tools for large-scale environments
+- Experience managing complex projects or backlogs with significant bottom-line impact
+- Experience leading development life cycle process and best practices
+- Experience with Agile Management (SCRUM, RUP, XP), OO Modeling, working on internet, UNIX, and database related projects
+- Experience mentoring/training an engineering community on complex technical issues
+- Experience with strategy planning and design of large scale distributed systems including specialization in mobile and cloud technologies where applicable
+- Experience in interacting and influencing executives at all levels of the organization
+- Experience with taking innovation ideas and contributing that to a business case to develop and architect a new system
+- 15+ years of professional experience, of which at least 8-10 years related IT consulting and/or DOD experience
+- Broad experience and understanding of the technology industry and some other industries (e.g. DOD, Federal Government, Public Sector), acquired in a consulting role and/or managing technology-enabled operational change or related activities
+- Proven record of delivering value from IT at an Senior Executive or Senior Officer level, bringing the benefits of technology to solve strategic and tactical issues while also managing costs, risk and resources
+- Ability to understand the needs of non-technical customers, to conceptualize, launch and deliver technology-enabled operational transformation projects
+- Working practical knowledge and experience developing Enterprise Architectures based on industry standard & recognized models (DoDAF, TOGAF, etc.)
+- U.S. Citizen - Current DOD security clearance or ability to pass a DOD security clearance background checks
+- Define system and application architecture and provides vision, problem anticipation, and problem solving ability to organization
+- Work with stakeholders and Delivery Management to ensure that both business process and product design align with the architecture model
+- Ensure alignment of IT strategy and planning with company's business goals
+- Work with Infrastructure teams to provide a consensus based enterprise solution that is scalable, adaptable and in synchronization with ever changing business needs
+- Education: Bachelor’s degree in Computer Science, Engineering or equivalent experience is essential. Master’s degree preferred or equivalent experience
+- Experience: 3-5+ years of experience with designing enterprise solutions and complex software systems
+- Technical Knowledge. Comprehensive knowledge of hardware, software, application, and systems engineering is essential
+- Business Domain Knowledge: Knowledge of the financial services industry is preferred, to help understand how the technology can really affect the business
+- Big Thinking: Being able to look at a problem from multiple angles to test your own rationale is crucial to a enterprise architect role
+- Critical Thinking:Enterprise architects often face a set of complex and unique problems, so they must be able to evaluate and solve problems. Being able to think quickly and on your toes is often required
+- IT Governance: Knowledge and experience of IT governance and operations is important
+- Motivational: Enterprise architects must be able to motivate and inspire. A large part of the job is to influence or evangelize a set of ideals in the enterprise
+- Negotiation:There will be times at the decision-making table when an enterprise architect must negotiate to get things accomplished
+- Process Orientation: Thinking in terms of process is essential. Building repeatable and reusable processes as artifacts
+- People Skills: The Enterprise Architect role requires interacting with people constantly. Interpersonal and leadership skills are critical - servant leadership, collaboration, facilitation, and negotiation skills. An ability to explain complex technical issues in a way that non-technical people may understand is important
+- Communication: Outstanding organizational and communication skills
+- Act as the departmental infrastructure technology expert. Play an active role in understanding industry trends and new technologies, and provide leadership in driving cost risk technologies reduction thru innovative technology solutions
+- Establish the long-term (3-5 years) technology vision and contribute to the development of the Bank’s reference architecture
+- Work with strategic suppliers / internal delivery organizations to ensure that Scotiabank benefits from leading industry practices and technologies
+- Key operations processes need to be managed to increasing levels of maturity and best practices
+- Develop ways to report and manage services in a consistent fashion across the enterprise
+- Actively engage to resolve incidents and systemic service issues—”own” resolution of incidents and problems
+- Ensure that new infrastructure solutions are effectively implemented and operationally “ready”
+- Provide a single point of contact for service delivery and service change for common enterprise-level services
+- Set appropriate expectations, including relevant performance targets in light of needs and expectations of the director
+- Prioritize and solve conflicts that will arise while looking at all the aggregated needs of Scotiabank
+- Clearly communicate the vision and technology roadmap to various team and stakeholders
+- Establish and maintain standards for Cloud, Open Source and Infrastructure end-to-end to ensure alignment to Scotiabank strategic road maps
+- Act as a key contributor in the development and maintenance of the technical standards for Cloud (Private and Public), Open Source technology, and infrastructure for the enterprise
+- Construct and maintain roadmaps for the deployment of enterprise technologies to achieve strategic objectives
+- Must have 15+ years of Technical Consulting experience, especially in the Financial Services / Banking Sector
+- Must have demonstrated experience as a strong driver of new and emerging technologies especially Open Source Software
+- Must have demonstrated experience as a strong driver of Cloud technology, application running dynamically in micro-services architecture
+- Strong IT technology experience in high-volume, complex, customer-oriented IT environment
+- Good understanding of banking business applications is highly desired
+- Ability to see how future technologies can be applied to help drive business objectives
+- Ability to influence and collaborate with teams of senior technical professionals
+- Understands long term business strategies and can create infrastructure technology strategies aligned to them
+- As one of our Enterprise Architects, you know your customer’s business and the industry, and what Microsoft can bring to the table to the benefit of the customer
+- You share a common set of characteristics that drive innovation and value for our customers
+- Executive presence and business acumen to win the hearts and minds of IT and business leaders
+- Ability to generate trust, build alliances across the organization, and orchestrate interdisciplinary teams to the benefit of customers
+- Situational awareness to adapt and solve challenges from a business and technology perspective
+- Ability to balance strategic thinking with pragmatic operational delivery
+- Empathy, curiosity, desire to constantly improve, acquire new skills and drive for results
+- College degree (Computer Science, Social Science or Business), and/or equivalent experience
+- Preferred: U.S. Citizen - Current security clearance or ability to pass security clearance background checks
+- Develops strategies, road maps and business segment architectures for Global Technology Develops technical and modeling standards across Information Technology and the business
+- Leads all phases of enterprise architecture development in support of business objectives: defining scope, modeling systems, analyzing requirements and planning implementations
+- Supports the implementation of enterprise programs to enable business growth and strategic goals
+- Collaborate with other architects and technical leaders across the organization to develop best practices
+- Overall information technology experience 10 years
+- Systems or application development experience 10 years
+- Designing and implementing new technology proof-of-concepts 7 years
+- Enterprise architecture experience 7 years
+- Functional and systems modeling 7 years
+- Working in a variety of technical environments 7 years
+- Development of enterprise and departmental strategic plans 5 years
+- Web and mobile digital technology experience 5 years
+- Integration technology and architecture experience such as EAI, SoA, and Microservices 5 years
+- Customer facing architecture and application delivery experience 5 years
+- Project management 5 years
+- Indirect management of people 3 years
+- TOGAF certification is desirable
+- Modern architecture experience such as SMACK, MEAN, reactive is desirable
+- Cloud experience is desirable
+- Strong understanding of Oracle technologies and product suite around core business processes
+- Capable of translating and presenting technical concepts into practical business terms for leaders both small and large group settings
+- Ability to create unprecedented architecture solutions that require a high level of critical thinking, creativity and innovation
+- 3- 4 years of experience in at least 2 IT disciplines in a client/server environment, including, but not limited to, technical architecture, network management, application development, middleware, database management, operations
+- Exceptional interpersonal skills, including teamwork, facilitation, and negotiation
+- Knowledge of all components of a technical architecture
+- Strong understanding of network architecture
+- Ability to translate business needs into technical architecture requirements
+- 2+ years of Systems Architecture experience
+- MicroServices SOA experience
+- Previous experience with .Net, Agile, and C#
+- Degree in Software Engineering, Computer Science, or Mathematics
+- Define, architect and build high-quality software solutions
+- Collaborate with other software engineers and cross-functional teams
+- Evangelize technologies, solutions, and best practices
+- Contribute new ideas to a larger community of high-caliber professionals
+- Balance resources, requirements, and complexity
+- Very passionate about coding (If you have a Github profile, that’s awesome! Would love to check it out! Otherwise we will ask you to code before or during the interview)
+- Very passionate about OO design and aware of the different layers that exist in a system (we will ask you to design a system during the interview)
+- Capable of leveraging basic Data structures and algorithms to solve problems (i.e. Knows basic CS fundamentals, nothing crazy, just enough to make good decisions)
+- Interested in technologies such as Haskell, Scala, etc
+- A master of
+- GraphQL knowledge
+- Worked with DynamoDB or RDS
+- Familiar with Kafka
+- Familiar with Apache Tinkerpop
+- Familiar with Kubernetes
+- Hands on development experience in an Agile environment
+- Knowledge of various Big Data components, vendors and technologies including Hadoop, Greenplum, Tableau, Gemfire, low latency solutions (networking / disk / etc)
+- Proven leadership skills to participate as a senior technologist in JPMIS
+- Drive enterprise standards around data management, integration, and systems
+- Acts as primary architectural point of contact between the BI COE and other CIOs, business functions, and GE business units
+- Define enterprise application system roadmaps and associated processes that support business imperatives such as growth, simplification, cost productivity and quality
+- Produces documented application frameworks or architectures
+- Provides input into the technology plan for the IT organization, and ensures that plans for their assigned applications integrate effectively with other aspects of the technical infrastructure
+- Works directly with the CIO team’s clients to identify opportunities to accelerate and amplify the achievement of business goals through technology
+- Grows the technical expertise of personnel across the IT organization
+- Proven track record as a solution or enterprise architect in BI and Analytics
+- Experience with open source products such as Hadoop, Spark, Solr, Pig, Hive, and MapReduce
+- Expertise in leveraging MPP platforms such as Greenplum, Teradata for data processing and query
+- Familiarity with BI Tools such as Spotfire, Tableau, OBIEE, etc
+- Working knowledge of analytical, statistical tools such as SAS, R, or similar tools
+- Experienced in data warehousing principles including data modeling, data quality, extract/transform/load process, job scheduling and indexing
+- BS Degree in Information Systems, Computer Science or related technical discipline or equivalent experience
+- Strong IT background
+- Experience with process quality methodology
+- Experience in architecting global, large-scale applications, which span multiple countries and business units
+- Ability to work across multiple projects simultaneously
+- Lean experience
+- Experience defining and implementing cloud and big-data solutions
+- Experience with Sales, Supply Chain, or Services business processes
+- Bachelor's Degree in Computer Science, Computer Engineering, Electrical Engineering, Systems Analysis or a related field of study
+- Minimum of 7 years of experience in at least two IT and / or Software Development disciplines (such as technical architecture, application development, middleware, information analysis, etc.) in a multi-tier environment
+- Familiarity with multiple, diverse technologies and processing environments
+- Ability to translate business needs into EA requirements
+- Ability to apply multiple solutions to business problems
+- 7+ years of relevant technology architecture consulting or industry experience
+- A minimum of 2 full life cycle implementation
+- A willingness to travel to client locations in the DC metro area
+- A Bachelor’s Degree
+- Must be eligible to obtain US government security clearance
+- Experience in Enterprise Architecture principles and methodologies,Enterprise design, enterprise info architecture design, technology adoption for public sector, technology strategy & architecture mgmt., software as a service (saas), future state roadmap definition, business process modeling (bpm), itil v3 business relationship management
+- Strong oral and written communication skills, including presentation skills (MS Visio, MS PowerPoint)
+- Demonstrated ability to communicate technically complex concepts in clear language
+- Ability to work both independently and within a team
+- Develop and maintain complex architectures by providing strategic expertise into evaluation of new solutions and definition of target, reference, and high level solution architectures
+- Partner with solution/project architects to ensure projects deliver solutions aligned with architectures
+- Develop and manage EA assets, including reference/target architectures, principles, roadmaps, patterns, etc
+- 40% Business partnership
+- Apply a deep understanding of architecture practices to articulate technology options and risk and mitigation strategies to influence decisions and project direction with senior leadership
+- Review new projects from the business and determines alignment with the enterprise architecture
+- Provide subject matter expertise and architectural oversight during the design, build and test phases
+- Utilizing deep knowledge of architecture practices and procedures, conduct quality assurance evaluations on new and existing technology
+- Drive toward simple and standard solutions limiting customization; facilitate architecture governance processes
+- Maintain extensive knowledge of industry trends, and utilizes this knowledge to educate both IT and the business on opportunities to build better target solution architectures that support and drive business decisions
+- Assist in the definition of the architecture and technology opportunities of the organization based on new and emerging technologies
+- Participate on design and implementation of Messaging services (email, eFax, etc…)
+- Work on implementation of Exchange Hybrid and migrate mailboxes to Exchange Online
+- Design Exchange 2016 on premises environment as a part of Exchange Hybrid
+- Help to implement DMARC
+- E experience in relevant technology
+- Proactively interacts with business partners and IT at all stages of lifecycle to design solutions, influence strategy, provide new business and technology ideas, align and prioritize projects to architecture priorities and drives architecture driven investments around our CPG business
+- Possesses a strong CPG geographical business and technological market acumen to contribute to the strategic business plan and operational direction
+- Empowers solution architect providing technical guidance, and needed training within capability scope
+- Guarantees data quality and accuracy of enterprise artifact repository
+- Has authority and responsibility for all aspects of one or multiple significant areas of work, including policy formation and application. Is fully accountable for actions taken and decisions made, both by self and subordinates
+- Leads on the formulation and implementation of strategy. Applies the highest level of management and leadership skills. Has a deep understanding of the IT industry and the implications of emerging technologies for the wider business environment
+- Clearly communicate at all levels of the organization the potential impact of emerging technologies on organizations and individuals and assesses the risks of using or not using such technologies. Assesses the impact of legislation, and actively promotes compliance. Takes the initiative to keep both own and subordinatesâ€™ skills up to date and to maintain an awareness of developments in IT
+- Has confidence to organize and deliver effective presentations to small and large groups, delivering focused, engaging presentations that promote business results
+- Demonstrates leadership and the ability to influence, guide, and coach for improvement. Sets performance expectations and reviews performance progress
+- Bachelor's Degree (Masters Preferred)
+- 7+ years of Information Technology experience
+- Experience with key CPG functional business areas and associated technologies such as Sales (e.g. trade, retail data, etc.), Shopper/Category Management and/or Customer Supply (Manufacturing, and/or Supply Chain)
+- Proven experience across multiple business areas, and multiple technologies with well-rounded background in applications, software, databases, middleware, etc
+- Proven experience in large-complex application rationalization efforts, maximizing current investment and optimizing process complexity
+- Ability to multi-task and switch between tasks quickly and smoothly
+- A strong desire to learn and expand their technical knowledge
+- Seen by senior leadership and CIO as their key, strategic resource regarding technology and its role in supporting the future of the company
+- Captures and prioritizes market and environmental trends, business strategies and objectives, and identifies the business benefits of alternative strategies. Establishes the contribution that technology can make to business objectives, conducting feasibility studies, producing high-level business models, and preparing business cases. Leads the creation and review of a systems capability strategy that meets the strategic requirements of the business. Develops enterprise-wide architecture and processes that ensure that the strategic application of change is embedded in the management of the organization, ensuring the buy-in of all stakeholders. Develops and presents business cases, for high-level initiatives, for approval, funding and prioritization. Ensures compliance between business strategies, enterprise transformation activities and technology directions, setting strategies, policies, standards and practices
+- Clearly communicate at all levels of the organization the potential impact of emerging technologies on organizations and individuals and assesses the risks of using or not using such technologies. Assesses the impact of legislation, and actively promotes compliance. Takes the initiative to keep both own and team skills up to date and to maintain an awareness of developments in IT
+- 10+ years of Professional experience
+- Experience in SAP
+- Experience in best in class process, methods and tools to effectively layout business-outcome-target-state for infrastructure included but not limited to INF Cloud Utilization for hybrid capacity, next generation of data centers, mainframe decommissioning, SAP HANA strategy
+- Prior applications/software development (programming) experience. * Solid presentation skills, ability to effectively influence
+- Verbal and written fluency in English is mandatory
+- Possesses Information management knowledge to collaborate with information architect
+- Enterprise and business architecture: Captures and prioritizes market and environmental trends, business strategies and objectives, and identifies the business benefits of alternative strategies. Establishes the contribution that technology can make to business objectives, conducting feasibility studies, producing high-level business models, and preparing business cases. Leads the creation and review of a systems capability strategy that meets the strategic requirements of the business. Develops enterprise-wide architecture and processes that ensure that the strategic application of change is embedded in the management of the organization, ensuring the buy-in of all stakeholders. Develops and presents business cases, for high-level initiatives, for approval, funding and prioritization. Ensures compliance between business strategies, enterprise transformation activities and technology directions, setting strategies, policies, standards and practices
+- Technical specialism: Provides organizational leadership and guidelines to promote the development and exploitation of specialist knowledge in the organization
+- Autonomy: Has authority and responsibility for all aspects of one or multiple significant areas of work, including policy formation and application. Is fully accountable for actions taken and decisions made, both by self and subordinates
+- Influence: Makes decisions critical to organizational success. Influences developments within the IT industry at the highest levels. Advances the knowledge and/or exploitation of IT within one or more organizations. Develops long-term strategic relationships with customers, partners, industry leaders and government
+- Complexity: Leads on the formulation and implementation of strategy. Applies the highest level of management and leadership skills. Has a deep understanding of the IT industry and the implications of emerging technologies for the wider business environment
+- Business Skills: Has a full range of strategic management and leadership skills. Understands, explains and presents complex technical ideas to both technical and non-technical audiences at all levels up to the highest in a persuasive and convincing manner. Has a broad and deep IT knowledge coupled with equivalent knowledge of the activities of those businesses and other organizations that employ IT
+- Communicates: Clearly communicate at all levels of the organization the potential impact of emerging technologies on organizations and individuals and assesses the risks of using or not using such technologies. Assesses the impact of legislation, and actively promotes compliance. Takes the initiative to keep both own and subordinates skills up to date and to maintain an awareness of developments in IT
+- Executive Presence: Has confidence to organize and deliver effective presentations to small and large groups, delivering focused, engaging presentations that promote business results
+- 
