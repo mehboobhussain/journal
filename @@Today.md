@@ -2,7 +2,7 @@
 Related to: [[@my projects]] and [[Current PI]] to achieve [[@goals]]
 Office [[@projects]] and [[@PI-9]] related work
 
-### Things to do today -- changing this line to test git.
+### Things to do today -- Yut gut!!
 - [ ] Find a good GP for Fatima and Selena 
 - [ ] Open the account on Upworks
 - [ ] Open account on blogger
