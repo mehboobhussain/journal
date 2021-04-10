@@ -3,15 +3,12 @@ Tags: #plan #goals
 ### To be planned
 - [ ] Supplier- Discovery document
 - [ ] Get kids / family photos printed for frames
-- revamp user story testing process
-Find papers for vaccination
+- [ ] BiZZDesign refresher for Archimate modelling
 - [ ] Clean spider web at home
 - [ ] Go through training material of BiZZdesign and revise
 - [ ] Connect with Professional in Pakistan
-- [ ] Investigate about EA Sparx new capabilities and pricing
 - [ ] Sunaina feet check up
 - [ ] BiZZDesign scripting
-- [ ] BiZZDesign refresher for Archimate modelling
 
 ### Weekly 
 - [ ] Look at [[@my projects]] to assess the progress
