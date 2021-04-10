@@ -1,8 +1,12 @@
+---
+modified: 2021-04-10T15:07:50+04:00
+---
+
 80 Push ups]-[2 Prayer]-[Type@ 60]-[Write 50w]-[Read 30m]-[Help] 
 Related to: [[@my projects]] and [[Current PI]] to achieve [[@goals]]
 Office [[@projects]] and [[@PI-9]] related work
 
-### Things to do today -- Yut gut!!
+### Things to do today -- cut oay
 - [ ] Find a good GP for Fatima and Selena 
 - [ ] Open the account on Upworks
 - [ ] Open account on blogger
