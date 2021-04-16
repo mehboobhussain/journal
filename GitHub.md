@@ -13,6 +13,7 @@
 > authorise 
 > git clone https://github.com/mehboobhussain/journal
 
+** Journal is name of the repository, same way, you can clone/copy any repository to a local disk
 ** This will create a local folder with the name as of repository and copy all the files
 ** From the repository in the local folder
 
@@ -21,13 +22,13 @@ _Note_
 ** If you have an already existing folder on the PC that you want to sync, the easiest option is to create the repository with a different name, clone it and then copy all the contents of the existing folder into this cloned folder. Once done, it is all set.
 
 Now you can change files in the local folder and push these to the repository by
-> git add <filename>
+> git add * 
 > git commit -m "message"
 > git push
+git push
 
 If you have made changes in the Git repository and want to sync these to the local folder then
 > git pull
 
 That's it. Enjoy!!
-
 
