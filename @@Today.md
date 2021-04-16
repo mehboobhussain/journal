@@ -3,13 +3,7 @@ Related to: [[@my projects]] and [[Current PI]] to achieve [[@goals]]
 Office [[@projects]] and [[@PI-9]] related work
 
 ### Things to do today
-- [ ] Check with security and architecture about the 3 options in the Schedule 1
 - [ ] Check about PL-BI 
-- [ ] Remove points from technical requirements that are already covered
-
-- [ ] Synchronization of Customer profile between GF systems and Calogi. 
-- [ ] Virtual account creation and direct API with banks for account balance update in Calogi
-
 - [ ] Fill in the Tempo sheets
 - [ ] Review SoW and provide inputs
 - [ ] Clean up inbox and take actions 
