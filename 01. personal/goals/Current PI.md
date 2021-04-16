@@ -13,7 +13,7 @@ Linked to: [[@goals]] that will be achieved with [[@my projects]] and actions in
 * Help people find a job to help [[society]]
 * Help Sunaina to set up her goals and prioritize [[sunaina]]
 
-#### Progress on 1-Apr-21
+#### Progress on 1-Apr-21, work related [[@PI-10]]
 * Job search no success yet, I am applying through LinkedIn. What else I should do 
 * Practices typing at around 50 wpm, did not practice for 2 weeks. Should be regular 
 * Weight 82.5 kgs which 7.5 kgs above the target
