@@ -3,7 +3,11 @@ Related to: [[@my projects]] and [[Current PI]] to achieve [[@goals]]
 Office [[@projects]] and [[@PI-9]] related work
 
 ### Things to do 
+- [ ] Review the schedule 1 and annexure B again
+- [ ] Ask Asma to revert to the testing evidence
+- [ ] Sort of security training seat
 - [ ] Review SoW and provide inputs
+
 - [ ] Clean up inbox and take actions 
 - [ ] Do hisab for this and next month
 - [ ] Call Abbu, Fouzia, Munazzah and Khala
