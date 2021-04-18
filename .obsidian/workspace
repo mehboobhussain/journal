@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "@@Today.md",
+            "file": "01. personal/Mehboob/Acclaim verification of the certificates.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "php",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@@Today.md",
+                "file": "01. personal/Mehboob/Acclaim verification of the certificates.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -97,6 +97,7 @@
   },
   "active": "b7401c1940ba69c5",
   "lastOpenFiles": [
+    "01. personal/Mehboob/Acclaim verification of the certificates.md",
     "@@Today.md",
     "abc.md",
     "03. work/projects/@PI-9.md",
@@ -105,7 +106,6 @@
     "04. skills/Module_06_Lab.md",
     "04. skills/BiZZdesign.md",
     "Pasted image 20210411201135.png",
-    "Journal architecture.png",
-    "GitHub.md"
+    "Journal architecture.png"
   ]
 }

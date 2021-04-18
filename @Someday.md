@@ -5,10 +5,7 @@ Tags: #plan #goals
 - [ ] Get kids / family photos printed for frames
 - [ ] BiZZDesign refresher for Archimate modelling
 - [ ] Clean spider web at home
-- [ ] Go through training material of BiZZdesign and revise
-- [ ] Connect with Professional in Pakistan
 - [ ] Sunaina feet check up
-- [ ] BiZZDesign scripting
 
 ### Weekly 
 - [ ] Look at [[@my projects]] to assess the progress
