@@ -1,5 +1,5 @@
 80 Push ups]-[5 Prayer]-[Type@ 60]-[Write 50w]-[Read 30m]-[Help] 
-Related to: [[@my projects]] and [[Current PI]] to achieve [[@goals]]
+Related to: [[Current PI]]  [[@my projects]] to achieve [[@goals]]
 
 ### Things to do 
 - [ ] Register for Azure fundamentals exam 24-Apr

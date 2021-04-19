@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mehboob.md",
+            "file": "@@Today.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mehboob.md",
+                "file": "@@Today.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -97,15 +97,15 @@
   },
   "active": "b7401c1940ba69c5",
   "lastOpenFiles": [
-    "mehboob.md",
-    "@Someday.md",
-    "04. skills/BiZZdesign.md",
-    "GitHub.md",
-    "ORBIT-Apr15-Reports.md",
-    "01. personal/Mehboob/Acclaim verification of the certificates.md",
     "@@Today.md",
-    "abc.md",
-    "03. work/projects/@PI-9.md",
-    "04. skills/modeling tool.md"
+    "01. personal/goals/@goals.md",
+    "01. personal/my projects/@my projects.md",
+    "01. personal/goals/Current PI.md",
+    "03. work/projects/@PI-10.md",
+    "Tempo-Apr21.md",
+    "xscratchpad.md",
+    "README.md",
+    "mehboob.md",
+    "@Someday.md"
   ]
 }
