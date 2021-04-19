@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "04. skills/BiZZdesign.md",
-            "mode": "source"
+            "file": "mehboob.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04. skills/BiZZdesign.md",
+                "file": "mehboob.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -97,6 +97,8 @@
   },
   "active": "b7401c1940ba69c5",
   "lastOpenFiles": [
+    "mehboob.md",
+    "@Someday.md",
     "04. skills/BiZZdesign.md",
     "GitHub.md",
     "ORBIT-Apr15-Reports.md",
@@ -104,8 +106,6 @@
     "@@Today.md",
     "abc.md",
     "03. work/projects/@PI-9.md",
-    "04. skills/modeling tool.md",
-    "04. skills/AZURE300-Training.md",
-    "04. skills/Module_06_Lab.md"
+    "04. skills/modeling tool.md"
   ]
 }
