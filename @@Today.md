@@ -3,7 +3,7 @@ Related to: [[@my projects]] and [[Current PI]] to achieve [[@goals]]
 Office [[@projects]] and [[@PI-9]] related work
 
 ### Things to do 
-- [*] Register for Azure fundamentals exam 24-Apr
+- [ ] Register for Azure fundamentals exam 24-Apr
 
 - [ ] Fill in the Tempo sheets
 - [ ] ERP Finance and P&L Roadmap
