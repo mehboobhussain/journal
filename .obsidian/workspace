@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "php",
+                "query": "cart",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,14 +98,14 @@
   "active": "b7401c1940ba69c5",
   "lastOpenFiles": [
     "@@Today.md",
-    "01. personal/goals/@goals.md",
     "01. personal/my projects/@my projects.md",
+    "01. personal/goals/@goals.md",
+    "01. personal/Mehboob/Cart.md",
     "01. personal/goals/Current PI.md",
     "03. work/projects/@PI-10.md",
     "Tempo-Apr21.md",
     "xscratchpad.md",
     "README.md",
-    "mehboob.md",
-    "@Someday.md"
+    "mehboob.md"
   ]
 }
