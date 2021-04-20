@@ -3,6 +3,8 @@ Related to: [[Current PI]]  [[@my projects]] to achieve [[@goals]]
 
 ### Things to do 
 - [ ] Send the CDs to Shumyla in Lahore
+- [ ] Carry out labs and exercises for AZ-303
+- [ ] Mock exams and test questions for AZ-303
 - [ ] Review ERP Finance and P&L Roadmap sent by Katie
 - [ ] Fill in the Tempo sheets
 - [ ] Check out all the value stream and what they are doing
