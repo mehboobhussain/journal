@@ -2,18 +2,16 @@
 Related to: [[Current PI]]  [[@my projects]] to achieve [[@goals]]
 
 ### Things to do 
+- [ ] Send the CDs to Shumyla in Lahore
 - [ ] Review ERP Finance and P&L Roadmap sent by Katie
-- [ ] Register for Azure fundamentals exam
-- [ ] Create a document for all the applications in FINPL area
-
 - [ ] Fill in the Tempo sheets
 - [ ] Check out all the value stream and what they are doing
 - [ ] Consolidate the disk usage on the laptop
 - [ ] Review [[War room]] actions and assign to the teams
 - [ ] What can be improved in architecture?
-- [ ] Read about applications in Finance and P&L domain
 
 - [ ] Write an article on LinkedIn using word or marked down
+- [ ] Discussion with Fatima on Thursday - procedure, leave, recovery, whom to inform, logistics at home, hospital, kids
 - [ ] Next month hisab, keep 2000 for Eid and 1000 extra
 - [ ] Call Abbu, Fouzia, Munazzah and Khala
 - [ ] Find a good GP for Fatima and Selena 
