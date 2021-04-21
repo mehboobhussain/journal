@@ -3,6 +3,8 @@ Related to: [[Current PI]]  [[@my projects]] to achieve [[@goals]]
 
 ### Things to do 
 - [ ] Send the CDs to Shumyla in Lahore
+- [ ] Create the architectural diagram to reflect new set up
+- [ ] Send vendor hardware recommendations to Abhi
 - [ ] Carry out labs and exercises for AZ-303
 - [ ] Mock exams and test questions for AZ-303
 - [ ] Review ERP Finance and P&L Roadmap sent by Katie
