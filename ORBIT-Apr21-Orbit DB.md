@@ -36,5 +36,5 @@ Held on: 21-Apr-21 @ 09:30 AM
 - Assessment of benefits - short term and long terms views
 - Recommendations and decisions through design gate
 >>Mehboob> Create the architectural diagram to reflect new set up
->>Mehboob> Send vendor hardware recommendations to Abhi
+>>Done!> Send vendor hardware recommendations to Abhi
 

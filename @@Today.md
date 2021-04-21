@@ -3,9 +3,11 @@ Related to: [[Current PI]]  [[@my projects]] to achieve [[@goals]]
 
 ### Things to do 
 - [ ] Send the CDs to Shumyla in Lahore
-- [ ] Create the architectural diagram to reflect new set up
-- [ ] Send vendor hardware recommendations to Abhi
+- [ ] Send resume after going through the job profiles 
+- [ ] Create the architectural diagram to reflect new set up of Orbit DB
 - [ ] Carry out labs and exercises for AZ-303
+- [ ] Ensure all NFR are mentioned in the MSA
+- [ ] Send a disclaimer email to Fiona
 - [ ] Mock exams and test questions for AZ-303
 - [ ] Review ERP Finance and P&L Roadmap sent by Katie
 - [ ] Fill in the Tempo sheets
@@ -24,7 +26,6 @@ Related to: [[Current PI]]  [[@my projects]] to achieve [[@goals]]
 - [ ] Check with Faysal bank to move to Lahore
 - [ ] Convert roadmap into architectural intents
 - [ ] record all design decisions in ADR and bring those in design gates
-
 
 ### Should be done this week
 Related to: [[Current PI]]
