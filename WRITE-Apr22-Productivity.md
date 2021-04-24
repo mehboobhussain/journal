@@ -36,3 +36,6 @@ _Author:_ Mehboob, Dated: 22-Apr-21
     - Short cuts
     - Software that helps 
 
+* Plans are dreams - actions make things happen
+* Review plans, replan, replan continuously 
+

@@ -1,18 +1,22 @@
+
 80 Push ups]-[5 Prayer]-[Type@ 60]-[Write 50w]-[Read 30m]-[Help] 
 Related to: [[Current PI]]  [[@my projects]] to achieve [[@goals]]
 
 ### Things to do 
-- [ ] Send resume after going through the job profiles 
-- [ ] Ensure all NFR are mentioned in the MSA
-- [ ] Send the CDs to Shumyla in Lahore
+- [ ] cancel vaccination appointment
+- [ ] Check Sunaina vaccination appointment
+- [ ] Book session for decision making 
+- [ ] Call Abbu, Fouzia, Munazzah and Khala
+- [ ] Hisab for next month
 
-- [ ] Send a disclaimer email to Fiona
 - [ ] Create the architectural diagram to reflect new set up of Orbit DB
 - [ ] Fill in the Tempo sheets
 - [ ] Check out all the value stream and what they are doing
 - [ ] Consolidate the disk usage on the laptop
 - [ ] Review [[War room]] actions and assign to the teams
 - [ ] What can be improved in architecture?
+- [ ] Ask Umar to give an overview of ERP finance for 1 hour
+- [ ] Design gate for orbit DB
 
 - [ ] Apply for jobs in Dubai - pending for few days
 - [ ] Create solution intent for Supplier master
@@ -28,7 +32,6 @@ Related to: [[Current PI]]  [[@my projects]] to achieve [[@goals]]
 ### Can be done tomorrow 
 - [ ] Check with Faysal bank to move to Lahore
 - [ ] Tech debt assessment of remaining applications
-- [ ] Call Abbu, Fouzia, Munazzah and Khala
 - [ ] record all design decisions in ADR and bring those in design gates
 
 ### Should be done this week
