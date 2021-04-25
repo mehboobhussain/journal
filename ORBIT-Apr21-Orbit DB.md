@@ -31,6 +31,14 @@ Held on: 21-Apr-21 @ 09:30 AM
 - Backup of data set-up on regular basis
 - Any additional work required that support team is aware ?
 
+[Effort and time estimates]
+- Team to identify the work needs to be done and time it will take
+- Impact analysis of this activity on report migration and other work on hand
+- Discussion on business to see if they are okay with the approach 
+- Necessary approvals for additional budget and efforts
+- Architecture decision boards to Okay with the change
+- Impact of this timeline on ERP upgrade and vice a versa
+
 ##### Actions
 - Assessment of effort, cost and time for conversion
 - Assessment of benefits - short term and long terms views
