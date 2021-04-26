@@ -2,7 +2,7 @@
 Held on: 26-Apr-21 @ 10:28 AM
 
 ##### Key Points:
-1.  Can we create an architecture runway from the roadmap and define PI-11 and PI-12 on high level
+1. Can we create an architecture runway from the roadmap and define PI-11 and PI-12 on high level
 2. 
 
 ##### Meeting notes
@@ -14,5 +14,10 @@ Notes from meeting with Chandra
     * Two new teams are coming up - ERP skilled people with one PO and scrum master. Systems and functionalities may be coming from AAT13 to AAT12.
     * Build PI-11 and PI-12 roadmap and discuss with Katie from architectural point of view. Ask Katie if she needs to develop a runway for architecture .
 
-##### Actions
+Notes from Katie
+    * Quite a bit of work to be broken down and some discoveries to be done e.g. to find out how BRASS can be replaced
+    * We should create a central document repository 
+    * We need to do a catalog review 
 
+##### Actions
+>>Mehboob> Go through the document of Tech Mohindra to prep for AAT13 related applications to come to AAT12

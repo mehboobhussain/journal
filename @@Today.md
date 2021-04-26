@@ -3,36 +3,28 @@
 Related to: [[Current PI]]  [[@my projects]] to achieve [[@goals]]
 
 ### Things to do 
-- [ ] Prepare for architecture roadmap meeting 
-- [ ] Call DHA to cancel the vaccination appointment
-- [ ] Carry out lab exercises for Azure 
 - [ ] Create the architectural diagram to reflect new set up of Orbit DB
 - [ ] Fill in the Tempo sheets
 - [ ] Update ADR for Orbit DB
-- [ ] Learn about JIRA stories, epics, dashboards
-- [ ] Check azure and AWS accounts
-- [ ] Learn about vscode and git repository
-- [ ] Consolidate the disk usage on the laptop
-- [ ] Ask Umar to give an overview of ERP finance for 1 hour
-- [ ] cancel vaccination appointment
-- [ ] Check Sunaina vaccination appointment
 - [ ] Book session for decision making 
 - [ ] Call Abbu, Fouzia, Munazzah and Khala
-- [ ] Hisab for next month
+- [ ] Learn about JIRA stories, epics, dashboards
+- [ ] Full check up for Sunaina - book doctor's appointment
+- [ ] Consolidate the disk usage on the laptop
+- [ ] Carry out lab exercises for Azure 
+- [ ] Learn about vscode and git repository
+- [ ] Check Sunaina vaccination appointment
+- [ ] Next month hisab, keep 2000 for Eid and 1000 extra
 
 - [ ] Check out all the value stream and what they are doing
 - [ ] Review [[War room]] actions and assign to the teams
 - [ ] What can be improved in architecture?
 - [ ] Design gate for orbit DB
 
-- [ ] Apply for jobs in Dubai - pending for few days
 - [ ] Create solution intent for Supplier master
 - [ ] Find a good GP for Fatima and Selena 
-- [ ] Ask Fayyaz for the mechanics contact
-- [ ] Full check up for Sunaina - book doctor's appointment
 - [ ] Write an article on LinkedIn using word or marked down
 - [ ] Discussion with Fatima on Thursday - procedure, leave, recovery, whom to inform, logistics at home, hospital, kids
-- [ ] Next month hisab, keep 2000 for Eid and 1000 extra
 - [ ] Carry out labs and exercises for AZ-303
 - [ ] Mock exams and test questions for AZ-303
 	
