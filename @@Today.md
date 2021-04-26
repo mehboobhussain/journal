@@ -3,19 +3,22 @@
 Related to: [[Current PI]]  [[@my projects]] to achieve [[@goals]]
 
 ### Things to do 
+- [ ] Prepare for architecture roadmap meeting 
+- [ ] Learn about JIRA stories, epics, dashboards
+- [ ] Create the architectural diagram to reflect new set up of Orbit DB
+- [ ] Update ADR for Orbit DB
+- [ ] Fill in the Tempo sheets
+- [ ] Consolidate the disk usage on the laptop
+- [ ] Ask Umar to give an overview of ERP finance for 1 hour
 - [ ] cancel vaccination appointment
 - [ ] Check Sunaina vaccination appointment
 - [ ] Book session for decision making 
 - [ ] Call Abbu, Fouzia, Munazzah and Khala
 - [ ] Hisab for next month
 
-- [ ] Create the architectural diagram to reflect new set up of Orbit DB
-- [ ] Fill in the Tempo sheets
 - [ ] Check out all the value stream and what they are doing
-- [ ] Consolidate the disk usage on the laptop
 - [ ] Review [[War room]] actions and assign to the teams
 - [ ] What can be improved in architecture?
-- [ ] Ask Umar to give an overview of ERP finance for 1 hour
 - [ ] Design gate for orbit DB
 
 - [ ] Apply for jobs in Dubai - pending for few days
