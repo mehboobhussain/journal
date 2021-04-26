@@ -4,10 +4,14 @@ Related to: [[Current PI]]  [[@my projects]] to achieve [[@goals]]
 
 ### Things to do 
 - [ ] Prepare for architecture roadmap meeting 
-- [ ] Learn about JIRA stories, epics, dashboards
+- [ ] Call DHA to cancel the vaccination appointment
+- [ ] Carry out lab exercises for Azure 
 - [ ] Create the architectural diagram to reflect new set up of Orbit DB
-- [ ] Update ADR for Orbit DB
 - [ ] Fill in the Tempo sheets
+- [ ] Update ADR for Orbit DB
+- [ ] Learn about JIRA stories, epics, dashboards
+- [ ] Check azure and AWS accounts
+- [ ] Learn about vscode and git repository
 - [ ] Consolidate the disk usage on the laptop
 - [ ] Ask Umar to give an overview of ERP finance for 1 hour
 - [ ] cancel vaccination appointment
