@@ -39,3 +39,21 @@ _Author:_ Mehboob, Dated: 22-Apr-21
 * Plans are dreams - actions make things happen
 * Review plans, replan, replan continuously 
 
+* Until it is done, it is not done
+
+* Use of technology 
+    - Google keep for notes and to do
+    - Zero (almost) inbox
+    - a place for everything and everything in place
+    - a single to do list (or two)
+    - work from to-do
+
+* Reflection 
+    - What worked well 
+    - What can be improved
+    - What is important
+
+* Who not how 
+    - Who is the best person to do the job
+    - Delegate and monitor
+
