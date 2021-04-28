@@ -7,3 +7,5 @@ Insert any image into text using ![](image-1.png)
 
 The diagram below shows how a user story can be depicted using a use case diagram. This is easy to understand by anyone as there are few symbols in it.
 ![a simple use case](D:\OneDrive\2.%20Mehboob\drawio%20models\Journal%20use%20case.png)
+
+ruqfatima1/fatima09 - HSBC, 004153, 041530 office laptop/Sunsel20214

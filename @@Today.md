@@ -2,20 +2,18 @@
 Related to: [[Current PI]]  [[@my projects]] to achieve [[@goals]]
 
 ### Things to do 
-- [ ] Speak to Murad and Ayyaz about property, Sarmad, Sharjeel
-- [ ] Work out pros and cons of property sell off 
+- [ ] Move the date of exam post Eid
+ruqfatima1/fatima09 - HSBC, 004153, 041530 office laptop/Sunsel20214
+- [ ] Speak to Ayyaz about property, Sarmad, Sharjeel
 - [ ] Fill in the Tempo sheets
-- [ ] Update the presentation for Orbit DB on Confluence page
 - [ ] Learn about JIRA stories, epics, dashboards
 - [ ] Full check up for Sunaina - book doctor's appointment
-- [ ] Move the date of exam post Eid
 - [ ] Fill in the bodies of essays 
 - [ ] Call Abbu, Fouzia, Munazzah and Khala
 - [ ] Learn about vscode and git repository
 - [ ] Check Sunaina vaccination appointment
 - [ ] Next month hisab, keep 2000 for Eid and 1000 extra
 
-- [ ] Follow up with Emaar on the payments done so far
 - [ ] Check out all the value stream and what they are doing
 - [ ] Review [[War room]] actions and assign to the teams
 - [ ] What can be improved in architecture?
