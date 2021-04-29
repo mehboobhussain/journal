@@ -3,9 +3,11 @@ Related to: [[Current PI]]  [[@my projects]] to achieve [[@goals]]
 
 ### Things to do 
 - [ ] Move the date of exam post Eid
-ruqfatima1/fatima09 - HSBC, 004153, 041530 office laptop/Sunsel20214
-- [ ] Speak to Ayyaz about property, Sarmad, Sharjeel
 - [ ] Fill in the Tempo sheets
+- [ ] What is carbon and Oxygen, event driven architecture
+- [ ] Answers to possible questions on resume
+- [ ] Go Through AZ-303 labs
+- [ ] Go through AZ-304 training material
 - [ ] Learn about JIRA stories, epics, dashboards
 - [ ] Full check up for Sunaina - book doctor's appointment
 - [ ] Fill in the bodies of essays 
