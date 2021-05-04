@@ -18,6 +18,10 @@ _Author:_ Mehboob, Dated: 22-Apr-21
     - mini habits which take no time or effort
     - accumulative effect, compound effect
 
+* Work expands proportional to time available
+    - Exercise to do a job in 5 min
+    - Same job in 1 min
+
 * Dave Allens - Getting stuff done
     - Next action 
     - Someday

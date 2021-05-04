@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ORBIT-Apr21-Orbit DB.md",
+            "file": "SKILL-May03-SWEShop.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ORBIT-Apr21-Orbit DB.md",
+                "file": "SKILL-May03-SWEShop.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -97,15 +97,15 @@
   },
   "active": "b7401c1940ba69c5",
   "lastOpenFiles": [
-    "ORBIT-Apr21-Orbit DB.md",
+    "SKILL-May03-SWEShop.md",
     "@@Today.md",
+    "ORBIT-Apr21-Orbit DB.md",
     "01. personal/my projects/@my projects.md",
     "01. personal/goals/@goals.md",
     "01. personal/Mehboob/Cart.md",
     "01. personal/goals/Current PI.md",
     "03. work/projects/@PI-10.md",
     "Tempo-Apr21.md",
-    "xscratchpad.md",
-    "README.md"
+    "xscratchpad.md"
   ]
 }
