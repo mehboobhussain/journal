@@ -22,6 +22,9 @@ _Author:_ Mehboob, Dated: 22-Apr-21
     - Exercise to do a job in 5 min
     - Same job in 1 min
 
+* Morning, evening and night routines
+    - What best can be done on what time
+
 * Dave Allens - Getting stuff done
     - Next action 
     - Someday
