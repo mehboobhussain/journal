@@ -25,6 +25,22 @@ _Author:_ Mehboob, Dated: 22-Apr-21
 * Morning, evening and night routines
     - What best can be done on what time
 
+* Concept of Quarterly PI Planning and 2 weeks sprints
+    - Learning new things
+    - Setting up targets and achieving them
+    - New business ventures and results
+    - Weight loss etc.
+
+* Short cuts 
+    - Windows 
+    - Browsers, using tabs, fixed tabs
+    - YouTube
+
+* Use of google calendar, tasks 
+    - Multiple calendars
+    - Teams calendars, family calendar
+    - 
+
 * Dave Allens - Getting stuff done
     - Next action 
     - Someday
