@@ -2,36 +2,22 @@
 Related to: [[Current PI]]  [[@my projects]] to achieve [[@goals]]
 
 ### Things to do 
-0-15-Calendar for tech debt 
-0-15-Check flow with Fiona and Under
-0-20-Plan to explore videos of ERP finance
-0-30-Change dates for AZ exam
-0-30-Stop Photo light room service
-0-45-Go through srini ppt
-0-60-Create solution intent for Supplier master
-1-20-Look into architecture backlog
-1-30-Apply for jobs
-1-30-Buy ashwaganda, misri
-1-30-Call Pakistani friends 
-1-30-Discuss Selena 
-1-30-Fill out Tempo
-1-30-First essay publish
-1-30-Go through training 100
-1-30-Hisab to reconcile
-1-30-Practice questions
-1-30-record all design decisions in ADR
-1-60-Answers to possible questions on resume
-1-60-Convert roadmap into architectural intents
-1-60-Initiate work on iTravel to OF integration, inform Katie, Joyal and Meenal
-1-90-Tech debt assessment of remaining applications
-2-05-Ask Tej about Rukhsana and who takes care of supplier related data
-2-15-Practice typing 
-2-30-Review [[War room]] actions and assign to the teams
-2-60-Go through iSpplier presentations of Srini 
-3-15-Check with Faysal bank to move to Lahore
-3-15-Fill in the bodies of essays 
-3-30-Backlog refinement in JIRA
-3-30-Check out value stream and what they are doing
-3-45-Review SWIFT related documentation for the possible discovery
-3-60-Write an article on LinkedIn using word
-3-90-Fatima on Thursday
+030-Go through backlog of architecture page on JIRA / Confluence 
+060-Connect with Srini on the uniform to create a PPT, architecture, issues, recommendations
+160-Go through document sent by Feroz to know about the architecture of ERP and its links
+260-Convert roadmap into architectural intents
+030-Hang the photo frame in Sunaina room
+045-Go through AAT12 and AAT13 to find out the solution intent structure
+130-Check with du why speed is only 90 mbps
+130-Work out the timeline, cost and technology for supplier master 
+160-Go through the document of Tech Mohindra to prep for AAT13 related applications to come to AAT12
+220-Look into architecture backlog
+220-Plan to explore videos of ERP finance
+230-Christy for ERP data on Enterprise data platform
+230-Get tech debt data to be sorted by Christy
+230-Package implementation for Kelya to be discussed in design gate. Check with the vendor on support of other DBMS
+230-Review [[War room]] actions and assign to the teams
+330-Check out value stream and what they are doing
+330-Stop Photo light room service
+330-record all design decisions in ADR
+260-Create solution intent for Supplier master

@@ -50,4 +50,3 @@ Held on: 20-Apr-21 @ 11:36 AM
 
 - [ ] Tech debt removal
     - How can we remove some of the tech debt that is common across the applications e.g. archival solution, configuration of the code in sonrque, etc. 
-

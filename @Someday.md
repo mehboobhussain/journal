@@ -1,10 +1,7 @@
 Related to: [[@@Today]] and [[Current PI]]
 Tags: #plan #goals 
 ### To be planned
-- [ ] Supplier- Discovery document
 - [ ] Get kids / family photos printed for frames
-- [ ] BiZZDesign refresher for Archimate modelling
-- [ ] Clean spider web at home
 - [ ] Sunaina feet check up
 
 ### Weekly 
